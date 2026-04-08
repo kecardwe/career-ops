@@ -1,0 +1,300 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+#
+# IMPORTANT: Each company in tracked_companies MUST have careers_url.
+#
+# HOW TO CUSTOMIZE:
+#   1. Copy this file to portals.yml in the project root
+#   2. Edit title_filter.positive with YOUR target role keywords
+#   3. Add/remove companies in tracked_companies
+#   4. Adjust search_queries for your preferred job boards
+#   5. Set enabled: false on companies you don't care about
+
+# -- Title filter --
+# The scanner uses these keywords to decide if a title is relevant.
+# At least 1 positive must match AND 0 negatives must match (case-insensitive).
+
+title_filter:
+  positive:
+    # -- Analytics & BI roles --
+    - "Data Analyst"
+    - "Analytics"
+    - "Business Intelligence"
+    - "BI Analyst"
+    - "Business Analyst"
+    - "Reporting Analyst"
+    - "Insights Analyst"
+    - "Decision Scientist"
+    # -- Supply chain & operations --
+    - "Supply Chain Analyst"
+    - "Supply Chain"
+    - "Operations Analyst"
+    - "Logistics Analyst"
+    - "Demand Planning"
+    - "Inventory Analyst"
+    - "S&OP"
+    - "Procurement Analyst"
+    # -- Data engineering & science --
+    - "Analytics Engineer"
+    - "Data Engineer"
+    - "Data Scientist"
+    - "Quantitative Analyst"
+    # -- Applied ML / automation (adjacent) --
+    - "Machine Learning"
+    - "ML Engineer"
+    - "Automation"
+  negative:
+    - "Intern"
+    - "VP "
+    - "Director"
+    - "Principal"
+    - ".NET"
+    - "Java "
+    - "iOS"
+    - "Android"
+    - "PHP"
+    - "Ruby"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "Mainframe"
+    - "COBOL"
+  seniority_boost:
+    # These prefixes add relevance but are not required
+    - "Senior"
+    - "Lead"
+
+# -- Search queries --
+# Each query triggers a WebSearch. Use site: to filter by portal.
+# The scanner extracts title, URL, and company from results.
+
+search_queries:
+  # -- Greenhouse --
+  - name: Greenhouse — Data Analyst Chicago
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Data Analyst" Chicago'
+    enabled: true
+
+  - name: Greenhouse — Analytics Engineer
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Analytics Engineer" remote OR Chicago'
+    enabled: true
+
+  - name: Greenhouse — Supply Chain Analyst
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Supply Chain Analyst" OR "Supply Chain Analytics"'
+    enabled: true
+
+  - name: Greenhouse — Business Intelligence
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Business Intelligence Analyst" OR "BI Analyst" Chicago OR remote'
+    enabled: true
+
+  - name: Greenhouse — Operations Analyst
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Operations Analyst" OR "Logistics Analyst" Chicago OR remote'
+    enabled: true
+
+  # -- Lever --
+  - name: Lever — Data Analyst Chicago
+    query: 'site:jobs.lever.co "Data Analyst" Chicago OR remote'
+    enabled: true
+
+  - name: Lever — Analytics Engineer
+    query: 'site:jobs.lever.co "Analytics Engineer" remote OR Chicago'
+    enabled: true
+
+  - name: Lever — Supply Chain Analyst
+    query: 'site:jobs.lever.co "Supply Chain Analyst" OR "Operations Analyst"'
+    enabled: true
+
+  # -- Ashby --
+  - name: Ashby — Data & Analytics
+    query: 'site:jobs.ashbyhq.com "Data Analyst" OR "Analytics Engineer" OR "Business Intelligence"'
+    enabled: true
+
+  - name: Ashby — Supply Chain
+    query: 'site:jobs.ashbyhq.com "Supply Chain" OR "Logistics Analyst" OR "Operations Analyst"'
+    enabled: true
+
+  # -- Wellfound (startups) --
+  - name: Wellfound — Analytics & Supply Chain
+    query: 'site:wellfound.com "Data Analyst" OR "Analytics Engineer" OR "Supply Chain Analyst" Chicago OR remote'
+    enabled: true
+
+  # -- Workable --
+  - name: Workable — Analytics Roles
+    query: 'site:apply.workable.com "Data Analyst" OR "Analytics Engineer" OR "Business Intelligence" Chicago OR remote'
+    enabled: true
+
+# -- Tracked companies --
+# Companies whose career pages are checked directly.
+# scan_method: playwright (default), websearch, greenhouse_api
+# For Greenhouse companies, add api: field for faster structured JSON access.
+
+tracked_companies:
+
+  # -- Supply chain visibility / tech (Chicago-based) --
+
+  - name: project44
+    careers_url: https://www.project44.com/careers
+    scan_method: websearch
+    scan_query: '"project44" "analyst" OR "analytics" OR "data" site:job-boards.greenhouse.io OR site:jobs.lever.co'
+    notes: "Chicago. Supply chain visibility platform. Direct overlap with Kirby Risk operational context."
+    enabled: true
+
+  - name: FourKites
+    careers_url: https://www.fourkites.com/careers/
+    scan_method: websearch
+    scan_query: '"fourkites" "analyst" OR "analytics" OR "data" site:job-boards.greenhouse.io OR site:jobs.lever.co'
+    notes: "Chicago. Real-time supply chain visibility & tracking."
+    enabled: true
+
+  # -- Distribution & logistics (Chicago area) --
+
+  - name: Grainger
+    careers_url: https://jobs.grainger.com
+    scan_method: websearch
+    scan_query: '"grainger" "analyst" OR "analytics" OR "supply chain" OR "data"'
+    notes: "Lake Forest IL. Industrial distribution — very aligned with Kirby Risk / electrical distribution background."
+    enabled: true
+
+  - name: Echo Global Logistics
+    careers_url: https://www.echo.com/about-echo/careers
+    scan_method: websearch
+    scan_query: '"echo global logistics" "analyst" OR "analytics" OR "data"'
+    notes: "Chicago. Freight brokerage. Strong analytics culture, similar operational context to Kirby Risk."
+    enabled: true
+
+  - name: Coyote Logistics
+    careers_url: https://www.coyote.com/careers/
+    scan_method: websearch
+    scan_query: '"coyote logistics" "analyst" OR "analytics" OR "data"'
+    notes: "Chicago. Freight brokerage (UPS subsidiary)."
+    enabled: true
+
+  - name: Hub Group
+    careers_url: https://www.hubgroup.com/careers
+    scan_method: websearch
+    scan_query: '"hub group" "analyst" OR "analytics" OR "supply chain"'
+    notes: "Oak Brook IL. Intermodal transportation & logistics."
+    enabled: true
+
+  # -- Supply chain software --
+
+  - name: Flexport
+    careers_url: https://www.flexport.com/careers/
+    scan_method: websearch
+    scan_query: '"flexport" "analyst" OR "analytics" OR "supply chain" site:job-boards.greenhouse.io OR site:jobs.lever.co'
+    notes: "SF / remote. Digital freight forwarder. Strong analytics culture."
+    enabled: true
+
+  - name: Blue Yonder
+    careers_url: https://blueyonder.com/careers
+    scan_method: websearch
+    scan_query: '"blue yonder" "analyst" OR "analytics" OR "data" site:job-boards.greenhouse.io OR site:jobs.lever.co'
+    notes: "Scottsdale AZ (remote-friendly). Supply chain planning & WMS software — direct overlap with Kirby Risk Tecsys WMS work."
+    enabled: true
+
+  - name: Manhattan Associates
+    careers_url: https://careers.manh.com
+    scan_method: websearch
+    scan_query: '"manhattan associates" "analyst" OR "analytics" OR "data"'
+    notes: "Atlanta (remote roles). WMS & supply chain software — directly relevant to Kirby Risk Tecsys implementation experience."
+    enabled: true
+
+  - name: Kinaxis
+    careers_url: https://www.kinaxis.com/en/careers
+    scan_method: websearch
+    scan_query: '"kinaxis" "analyst" OR "analytics" OR "supply chain"'
+    notes: "Ottawa / remote. Supply chain planning software (S&OP, demand planning)."
+    enabled: true
+
+  # -- Data & analytics platforms --
+
+  - name: Databricks
+    careers_url: https://www.databricks.com/company/careers
+    scan_method: websearch
+    scan_query: '"databricks" "analyst" OR "analytics engineer" OR "data engineer" site:job-boards.greenhouse.io'
+    notes: "Remote-friendly. Data lakehouse platform. Strong analytics engineering culture."
+    enabled: true
+
+  - name: Snowflake
+    careers_url: https://careers.snowflake.com
+    scan_method: websearch
+    scan_query: '"snowflake" "analyst" OR "analytics engineer" site:careers.snowflake.com'
+    notes: "Remote-friendly. Cloud data warehouse. Strong analytics roles."
+    enabled: true
+
+  - name: dbt Labs
+    careers_url: https://jobs.ashbyhq.com/dbtlabs
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/dbtlabs "analyst" OR "analytics"'
+    notes: "Remote-first. Analytics engineering platform — directly aligned with Analytics Engineer target role."
+    enabled: true
+
+  # -- Chicago tech & analytics companies --
+
+  - name: Morningstar
+    careers_url: https://www.morningstar.com/company/careers
+    scan_method: websearch
+    scan_query: '"morningstar" "analyst" OR "analytics" OR "data" Chicago'
+    notes: "Chicago. Investment research & data. Large analytics org."
+    enabled: true
+
+  - name: Tempus AI
+    careers_url: https://www.tempus.com/careers/
+    scan_method: websearch
+    scan_query: '"tempus" "analyst" OR "analytics" OR "data" Chicago'
+    notes: "Chicago. Healthcare AI & analytics. Growing data science org."
+    enabled: true
+
+  - name: Zebra Technologies
+    careers_url: https://www.zebra.com/us/en/about-zebra/careers.html
+    scan_method: websearch
+    scan_query: '"zebra technologies" "analyst" OR "analytics" OR "data" site:jobs.lever.co OR site:job-boards.greenhouse.io'
+    notes: "Lincolnshire IL. Supply chain hardware & software — direct overlap with Kirby Risk Zebra scanner fleet management."
+    enabled: true
+
+  - name: Enova International
+    careers_url: https://www.enova.com/careers/
+    scan_method: websearch
+    scan_query: '"enova" "analyst" OR "analytics" OR "data" Chicago'
+    notes: "Chicago. Fintech / analytics-driven lending. Known for strong data science culture."
+    enabled: true
+
+  # -- Large employers with strong analytics orgs (Chicago area) --
+
+  - name: United Airlines
+    careers_url: https://careers.united.com
+    scan_method: websearch
+    scan_query: '"united airlines" "analyst" OR "analytics" OR "data" OR "supply chain" Chicago'
+    notes: "Chicago. Large analytics / ops research / supply chain org."
+    enabled: true
+
+  - name: Kraft Heinz
+    careers_url: https://careers.kraftheinzcompany.com
+    scan_method: websearch
+    scan_query: '"kraft heinz" "analyst" OR "analytics" OR "supply chain" OR "data" Chicago'
+    notes: "Chicago. CPG company with large supply chain and analytics function."
+    enabled: true
+
+  # -- Consulting (strong entry points for BAIM graduates) --
+
+  - name: Deloitte
+    careers_url: https://apply.deloitte.com
+    scan_method: websearch
+    scan_query: '"deloitte" "analyst" OR "analytics" OR "supply chain" Chicago site:job-boards.greenhouse.io OR site:jobs.lever.co'
+    notes: "Chicago office. Strategy & analytics consulting. Good BAIM entry path."
+    enabled: true
+
+  - name: Accenture
+    careers_url: https://www.accenture.com/us-en/careers
+    scan_method: websearch
+    scan_query: '"accenture" "analyst" OR "analytics" OR "supply chain" Chicago'
+    notes: "Chicago office. Supply chain & technology consulting. Strong analytics practice."
+    enabled: true

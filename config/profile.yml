@@ -1,0 +1,64 @@
+# Career-Ops Profile Configuration
+# Copy this file to config/profile.yml and fill in your details.
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Kyle Cardwell"
+  email: "cardwellkyle4674@gmail.com"
+  phone: "765-434-3544"
+  location: "West Lafayette, IN"
+  linkedin: "linkedin.com/in/kyle-e-cardwell"
+  portfolio_url: "https://portfolio-website-751924489125.us-central1.run.app/"
+  github: "github.com/kecardwe"
+  # twitter: ""  # not applicable
+
+target_roles:
+  primary:
+    - "Data Analyst"
+    - "Analytics Engineer"
+    - "Supply Chain Analyst"
+  archetypes:
+    - name: "Data / Analytics Engineer"
+      level: "Entry/Mid"
+      fit: "primary"
+    - name: "Supply Chain Analyst"
+      level: "Entry/Mid"
+      fit: "primary"
+    - name: "Business Intelligence Analyst"
+      level: "Entry/Mid"
+      fit: "secondary"
+    - name: "AI / Automation Engineer"
+      level: "Entry/Mid"
+      fit: "adjacent"
+
+narrative:
+  headline: "Analytics and data engineering graduate student building production-grade systems at the intersection of ML and operations"
+  exit_story: "MS BAIM candidate at Purdue with a track record of building things that actually get used — from a 14,000-SKU warehouse slotting model in production to an AI automation LLC with a paying client."
+  superpowers:
+    - "End-to-end Python data pipelines and constraint-based optimization"
+    - "Applied ML — right-sized model selection, feature engineering, and forecasting"
+    - "Operational context: I understand the business problem behind the data problem"
+    - "Self-directed execution — have owned full projects solo in production environments"
+  proof_points:
+    - name: "Kirby Risk Warehouse Slotting Model"
+      hero_metric: "14,000+ SKUs slotted across 3,800 locations; model in active production use during DC buildout"
+    - name: "Cardwell Data Solutions — AI Rental Agent"
+      hero_metric: "5-minute manual process reduced to ~5 seconds"
+    - name: "Molson Coors RTD Forecasting (Data Mine)"
+      hero_metric: "MAPE ~5.27% on multi-year US RTD market forecast; Ridge outperformed complex models on limited data"
+  # dashboard:
+  #   url: ""
+  #   password: ""
+
+compensation:
+  target_range: "$90K+"
+  currency: "USD"
+  minimum: "$90K"                # Walk-away number
+  location_flexibility: "Open to any location; Chicago, IL strongly preferred"
+
+location:
+  country: "United States"
+  city: "West Lafayette, IN (targeting Chicago)"
+  timezone: "EST"
+  visa_status: "US Citizen — no sponsorship needed"
+  # onsite_availability: "open to relocation"
