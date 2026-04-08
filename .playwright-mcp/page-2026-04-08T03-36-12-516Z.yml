@@ -1,0 +1,438 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link "Inspire11 Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://inspire11.slack.com/files/U8F232Q2H/FD2DK01HQ/inspire11_6.0_color__transparent_background_.png
+        - img "Inspire11 Logo" [ref=e8]
+      - generic [ref=e9]:
+        - link "Back to jobs" [ref=e10] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/inspire11
+          - img [ref=e11]
+          - text: Back to jobs
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - heading "Data Analyst" [level=1] [ref=e16]
+            - generic [ref=e17]:
+              - img [ref=e18]
+              - generic [ref=e20]: Chicago, IL
+          - button "Apply" [ref=e21] [cursor=pointer]: Join our Talent Network
+        - generic [ref=e23]:
+          - paragraph [ref=e24]:
+            - strong [ref=e25]:
+              - generic [ref=e26]: Data Analyst – Inspire11
+          - paragraph [ref=e27]: Elevens, as we call ourselves here, are curiously smart, purposefully scrappy, and dedicated to the highest standard of quality. By being true to ourselves and others, we create a respectful environment that enhances collaboration, drives growth through high expectations, and ensures alignment with our core values. Inspire11 is more than a modern business and technology consulting firm; we're a revolution. We work differently — and it shows. Every move we make is tied to measurable value, and our success aligns with our clients’ success. We partner to simplify the complex, solve sustainably, and stay ahead by continuously pushing our own thinking forward. Value creation isn't something we talk about — it's something we live, every day.
+          - paragraph [ref=e28]: At Inspire11, we're not just offering a job; we're providing a platform for you to transform the future. You'll feel right at home here if you think differently, build boldly, and lead with impact. We're a place where your unique perspective is valued, your boldness is celebrated, and your potential is unleashed.
+          - list [ref=e29]:
+            - listitem [ref=e30]:
+              - strong [ref=e31]:
+                - generic [ref=e32]: "Growth Through Challenge:"
+              - generic [ref=e34]: We hold ourselves to the highest standards of excellence and accountability. At Inspire11, we are committed to delivering exceptional results and empowering our employees to take ownership of their work and drive meaningful impact. You'll work alongside elite consultants who challenge you to expand your skills and think even more creatively.
+          - list [ref=e35]:
+            - listitem [ref=e36]:
+              - strong [ref=e37]:
+                - generic [ref=e38]: "The Autonomy to do Your Best Work:"
+              - generic [ref=e39]: Here, outcomes matter more than outputs. It's about the value we create. You'll have the autonomy to shape your work, drive decisions, and make an impact—not just for our clients but for your growth. You'll be challenged to think strategically, anticipate needs, and solve problems. Bold thinking, creative approaches, and challenging conventional wisdom are part of our DNA. Our clients rely on us to lead them into what's next.
+          - list [ref=e40]:
+            - listitem [ref=e41]:
+              - strong [ref=e42]:
+                - generic [ref=e43]: "Diverse Perspectives Driving Innovative Solutions:"
+              - generic [ref=e45]: We champion inclusivity and authenticity, knowing that diverse perspectives drive better solutions. You'll be encouraged to bring your whole self to work, knowing that's where true innovation happens. We also believe that doing great work should be fun. Our culture thrives on energy, camaraderie, and appreciating the unique contributions that make Inspire11 an amazing place. Our teams get energy from being the best they can be.
+          - paragraph [ref=e46]:
+            - strong [ref=e47]: "What you can expect in this role:"
+            - text: "As a Data Analyst, you will serve as a bridge between data and decision-making. You’ll uncover insights, design data products, and help clients realize value through analytics. Your responsibilities will include:"
+          - list [ref=e48]:
+            - listitem [ref=e49]: Uncovering client needs through stakeholder interviews, process mapping, and exploratory data analysis.
+            - listitem [ref=e50]: Assessing and interpreting raw data sets to evaluate trends, data quality, performance metrics, and the accuracy of business logic.
+            - listitem [ref=e51]: Designing and building impactful dashboards and reports using tools like Power BI, Tableau, or Looker.
+            - listitem [ref=e52]: Profiling and interpreting data to identify patterns and translate them into actionable, insight-driven recommendations.
+            - listitem [ref=e53]: Leveraging cloud data platforms (e.g., Snowflake, Databricks, Redshift, Synapse) to access and analyze data at scale.
+            - listitem [ref=e54]: Interfacing directly with clients throughout the project lifecycle—gathering requirements, sharing insights, and iterating on deliverables.
+            - listitem [ref=e55]: Collaborating cross-functionally with data engineers, architects, and solution owners to deliver holistic solutions.
+            - listitem [ref=e56]: Facilitating Agile ceremonies and co-creation workshops with clients to shape iterative, high-impact solutions.
+            - listitem [ref=e57]: Exploring opportunities to apply AI and GenAI to automate insights, accelerate reporting, or enhance decision intelligence.
+          - paragraph [ref=e58]:
+            - strong [ref=e59]: "Tools for success:"
+            - generic [ref=e60]: We’re
+            - generic [ref=e61]: "looking for analysts who combine technical acumen with consulting savvy and a growth mindset. Ideal candidates bring:"
+          - list [ref=e62]:
+            - listitem [ref=e63]:
+              - generic [ref=e64]: 2+ years of consulting experience with a focus on data analysis, BI, or analytics strategy.
+            - listitem [ref=e65]: Strong SQL skills, with experience analyzing large datasets and building queries to uncover trends, metrics, and data relationships.
+            - listitem [ref=e66]: Hands-on experience with data visualization tools such as Power BI, Tableau, or equivalent.
+            - listitem [ref=e67]: Exposure to modern cloud data platforms, including Snowflake, Databricks, Redshift, or Synapse.
+            - listitem [ref=e68]: Familiarity with AI and machine learning concepts—and a willingness to explore how GenAI (e.g., ChatGPT, Copilot) can support faster analysis and insight generation.
+            - listitem [ref=e69]: Excellent communication and storytelling skills, including experience presenting findings to external stakeholders.
+            - listitem [ref=e70]: Comfort in dynamic, cross-functional environments, with an agile mindset and a collaborative working style.
+            - listitem [ref=e71]: This role requires the willingness and ability to be onsite at the Inspire11 or client location depending on project needs to maximize in-person collaboration and build stronger relationships.
+          - paragraph [ref=e72]: Inspire11 is unable to sponsor employment visas at this time. Applicants must be legally authorized to work in the U.S. at the time of application and throughout the duration of employment.
+          - paragraph [ref=e73]:
+            - text: "Inspire11’s Privacy Policy:"
+            - link "https://www.inspire11.com/privacy-policy/" [ref=e74] [cursor=pointer]:
+              - /url: https://www.inspire11.com/privacy-policy/
+              - generic [ref=e75]: https://www.inspire11.com/privacy-policy/
+          - paragraph [ref=e76]:
+            - strong [ref=e77]: U.S. Compensation & Benefits
+          - paragraph [ref=e78]:
+            - strong [ref=e79]: Compensation at Inspire11
+            - text: Inspire11 follows Title VII of the Civil Rights Act of 1964, the Equal Pay Act of 1963, the Illinois Human Rights Act, the Illinois Equal Wage Act, and the Illinois Equal Pay Act of 2003. We believe that people performing the same role at the same level, with similar levels of ability or experience, should be similarly compensated. We also believe that the most critical factors driving compensation should be an Eleven’s skill, experience, performance, responsibility, and effort. We may also consider an employee’s length of service, relevant education, training, or certification, and the requirements of a specific job. We may also consider whether the cost of living or competition for talent in specific markets requires adjustments in compensation for employees in those markets. Our goal is to fairly compensate all our Elevens based on these factors within the Company’s financial ability.
+          - paragraph [ref=e80]: Compensation may be increased or decreased at Inspire11’s discretion based on an employee’s performance reviews, market conditions, and the Company’s financial performance. Inspire11 will always notify an employee in writing before any change is made to their compensation.
+          - paragraph [ref=e81]:
+            - strong [ref=e82]: Bonuses
+            - text: "We may allow employees in Sales, Recruiting, or Leadership to earn periodic bonuses based on sales, revenue, client-specific or practice-specific targets. These targets are communicated to each eligible employee via offer letter or annual update. All such target-based bonuses are calculated based on the Company and an individual’s periodic performance and will only be awarded if: (a) the employee is meeting performance expectations and is an employee in good standing of the Company; (b) the target is met; and (c) the Company’s current financial performance and market conditions permit the bonus to be paid out. All periodic bonuses are discretionary and are earned only when paid out."
+          - paragraph [ref=e83]:
+            - text: Each year, the Company will decide whether the Company’s financial performance, market performance, and business realities allow it to create an annual bonus pool. If the Company decides that annual bonuses may be awarded, then the Leadership Team will grant annual bonuses to employees in good standing based on the same factors discussed in the previous paragraph while also considering employees’ diligence, performance, expertise, skill, judgment, and experience. To be eligible to participate in this annual bonus pool, an employee must be hired by no later than October 1
+            - generic [ref=e84]: st
+            - text: of the preceding year. Annual bonuses and merit increases may be prorated based on hire date. Employees eligible for target-based periodic bonuses are not eligible to participate in the annual bonus pool.
+          - paragraph [ref=e85]:
+            - strong [ref=e86]: Options or Other Equity in Inspire11
+            - text: Inspire11 has a legacy program that allowed certain high-performing employees to purchase shares of the Company through an affiliate. The Company also has a newer program that grants options annually to high-performing employees based on their performance reviews, their managers’ recommendation, and leadership approval. These options have a vesting period associated with them.
+          - paragraph [ref=e87]:
+            - strong [ref=e88]: Benefits
+            - text: "Full-time employees are eligible for the following contributory benefits, where premiums are partially paid by the Company and partially by the employee:"
+          - list [ref=e89]:
+            - listitem [ref=e90]: Medical insurance plans,
+            - listitem [ref=e91]: Dental insurance plans, and
+            - listitem [ref=e92]: Vision insurance plans.
+          - paragraph [ref=e93]: "Full-time employees are eligible for the following benefits provided wholly by the Company:"
+          - list [ref=e94]:
+            - listitem [ref=e95]: Short-term disability, providing for a benefit of 60% of an employee’s salary up to a maximum of $2,000 per week for up to 11 weeks after a 7-day waiting period;
+            - listitem [ref=e96]: Long-term disability, providing for 60% of an employee’s salary up to a maximum of $10,000 per month for the time period from the 91st day after a qualifying event through the earlier of the end of the disability or age 67;
+            - listitem [ref=e97]: Life insurance, providing for a benefit of two times the employee’s annual salary, up to a maximum payout of $400,000;
+            - listitem [ref=e98]: A connectivity stipend of $325 annually;
+            - listitem [ref=e99]: Employee Assistance Program, providing for confidential counseling sessions, 24-hour crisis support, online peer support groups, skills training, behavioral health coaching, initial free legal consultations (and discounted rates on referred lawyers), online legal forms, assistance with eldercare and parenting services, among other things.
+          - paragraph [ref=e100]: Full-time employees are also eligible to participate in the Company’s 401(k) plan, which allows employees to contribute to a standard or Roth IRA. According to a vesting schedule, the Company matches 100% of employee contributions up to 3% of an employee’s salary.
+          - paragraph [ref=e101]: "Depending on eligibility and their elections, full-time employees may also have access to certain tax-advantaged savings accounts set up through the Company, into which employees contribute withheld funds:"
+          - list [ref=e102]:
+            - listitem [ref=e103]: Flexible savings accounts
+            - listitem [ref=e104]: Limited-purpose flexible savings accounts
+            - listitem [ref=e105]: Healthcare savings accounts
+            - listitem [ref=e106]: Dependent care savings accounts
+            - listitem [ref=e107]: Commuter benefit accounts
+          - paragraph [ref=e108]:
+            - strong [ref=e109]: Paid Time Off and Leave
+            - text: Inspire11 grants all eligible employees any statutory leave required by federal, Illinois, or other applicable law, such as FMLA, bereavement, sick leave, emergency leave, jury duty or witness leave, and VESSA leave.
+          - paragraph [ref=e110]: In addition, Inspire11 has a self-managed paid time off policy (PTO) that does not set predetermined upper limits on the amount of PTO an employee may take. All PTO must be requested in advance and approved by the appropriate supervisor to ensure client work can continue. All full-time employees are expected to take a minimum of one week of PTO each year.
+          - paragraph [ref=e111]: Inspire11 offers paid parental leave to full-time employees who have been with the company for at least one year. Birthing parents are eligible for up to 12 weeks of paid parental leave, while non-birthing parents are eligible for up to 6 weeks. Short-term disability (STD) benefits are also provided following childbirth. When combined with PTO and STD, birthing parents may receive a total of 18–20 weeks of paid leave. Lastly, Inspire11 has eight paid holidays.
+          - paragraph [ref=e112]:
+            - strong [ref=e113]: Other Benefits
+            - text: "Inspire11 also maintains other programs that provide additional benefits to employees, such as:"
+          - list [ref=e114]:
+            - listitem [ref=e115]: "Impact to 11: a charitable giving matching program where, after being employed by Inspire11 for a year, employees may request that a qualifying charity receive up to $500 in matching donations each year."
+            - listitem [ref=e116]: "Professional development benefits for qualifying employees: a program allowing for reimbursement of certain course materials and costs on a discretionary basis for employees who have been at Inspire11 for at least 6 months, with supervisor’s approval."
+            - listitem [ref=e117]: Regular gifts of Inspire11 clothes, office items, and swag.
+          - paragraph [ref=e118]:
+            - strong [ref=e119]: Disclaimer
+            - text: This document applies only to the United States and to Inspire11 LLC, not our worldwide partners.
+          - paragraph [ref=e120]: Inspire11 reserves the right to change the benefits offered to employees in accordance with applicable law based on business needs, market conditions, and financial stability. Before changing any benefits, Company will notify all employees of the change and will update this document.
+          - paragraph [ref=e121]:
+            - strong [ref=e122]: EEOC
+            - text: Inspire11 is an Equal Opportunity Workplace and an Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. If you need assistance or a reasonable accommodation during the application process, please contact us at
+            - link "hr@inspire11.com" [ref=e123] [cursor=pointer]:
+              - /url: mailto:hr@inspire11.com
+              - text: hr@inspire11
+              - generic [ref=e124]: .com
+            - text: ", or inform your recruiting partner."
+        - generic [ref=e125]:
+          - img [ref=e126]
+          - generic [ref=e128]:
+            - paragraph [ref=e129]: Create a Job Alert
+            - paragraph [ref=e130]: Interested in building your career at Inspire11? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e131] [cursor=pointer]
+      - separator [ref=e132]
+      - generic [ref=e133]:
+        - generic [ref=e134]:
+          - generic [ref=e135]:
+            - heading "Apply for this job" [level=2] [ref=e137]
+            - generic [ref=e138]:
+              - paragraph [ref=e140]: "*"
+              - paragraph [ref=e141]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e144] [cursor=pointer]
+        - generic [ref=e145]:
+          - generic [ref=e146]:
+            - generic [ref=e149]:
+              - generic [ref=e150]: First Name*
+              - textbox "First Name" [ref=e151]
+            - generic [ref=e154]:
+              - generic [ref=e155]: Last Name*
+              - textbox "Last Name" [ref=e156]
+            - generic [ref=e159]:
+              - generic [ref=e160]: Email*
+              - textbox "Email" [ref=e161]
+            - group "Phone" [ref=e163]:
+              - generic [ref=e164]: Phone
+              - generic [ref=e167]:
+                - generic [ref=e168]: Country*
+                - generic [ref=e169]:
+                  - log [ref=e171]
+                  - generic [ref=e173]:
+                    - combobox "Country" [ref=e176]
+                    - button "Toggle flyout" [ref=e178] [cursor=pointer]:
+                      - img [ref=e179]
+                  - textbox
+              - generic [ref=e183]:
+                - generic [ref=e184]: Phone*
+                - textbox "Phone" [ref=e185]
+            - generic [ref=e186]:
+              - generic [ref=e188]:
+                - generic [ref=e189]: Location (City)*
+                - generic [ref=e190]:
+                  - log [ref=e192]
+                  - combobox "Location (City)" [ref=e197]
+                  - textbox
+              - button "Locate me" [ref=e198] [cursor=pointer]
+            - group "Resume/CV*" [ref=e200]:
+              - generic [ref=e201]: Resume/CV*
+              - generic [ref=e203]:
+                - generic [ref=e205]:
+                  - button "Attach" [ref=e206] [cursor=pointer]
+                  - generic [ref=e207]: Attach
+                  - button "Attach" [ref=e208]
+                - button "Dropbox" [ref=e210] [cursor=pointer]
+                - button "Google Drive" [ref=e212] [cursor=pointer]
+                - generic [ref=e214]:
+                  - button "Enter manually" [ref=e215] [cursor=pointer]
+                  - generic [ref=e216]: Enter manually
+                - paragraph [ref=e217]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e219]:
+              - generic [ref=e220]: Cover Letter
+              - generic [ref=e222]:
+                - generic [ref=e224]:
+                  - button "Attach" [ref=e225] [cursor=pointer]
+                  - generic [ref=e226]: Attach
+                  - button "Attach" [ref=e227]
+                - button "Dropbox" [ref=e229] [cursor=pointer]
+                - button "Google Drive" [ref=e231] [cursor=pointer]
+                - generic [ref=e233]:
+                  - button "Enter manually" [ref=e234] [cursor=pointer]
+                  - generic [ref=e235]: Enter manually
+                - paragraph [ref=e236]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e237]:
+            - generic [ref=e238]:
+              - separator [ref=e239]
+              - paragraph [ref=e241]: Education
+              - generic [ref=e243]:
+                - generic [ref=e244]: School
+                - generic [ref=e245]:
+                  - log [ref=e247]
+                  - generic [ref=e249]:
+                    - generic [ref=e250]:
+                      - generic [ref=e251]: Select...
+                      - combobox "School" [ref=e253]
+                    - button "Toggle flyout" [ref=e255] [cursor=pointer]:
+                      - img [ref=e256]
+              - generic [ref=e259]:
+                - generic [ref=e260]: Degree
+                - generic [ref=e261]:
+                  - log [ref=e263]
+                  - generic [ref=e265]:
+                    - generic [ref=e266]:
+                      - generic [ref=e267]: Select...
+                      - combobox "Degree" [ref=e269]
+                    - button "Toggle flyout" [ref=e271] [cursor=pointer]:
+                      - img [ref=e272]
+            - button "Add another" [ref=e274] [cursor=pointer]
+          - generic [ref=e275]:
+            - separator [ref=e276]
+            - generic [ref=e279]:
+              - generic [ref=e280]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e281]
+            - generic [ref=e284]:
+              - generic [ref=e285]: Website
+              - textbox "Website" [ref=e286]
+            - generic [ref=e289]:
+              - generic [ref=e290]: How did you hear about this job?
+              - textbox "How did you hear about this job?" [ref=e291]
+            - generic [ref=e294]:
+              - generic [ref=e295]: Are you legally authorized to work in the United States?*
+              - generic [ref=e296]:
+                - log [ref=e298]
+                - generic [ref=e300]:
+                  - generic [ref=e301]:
+                    - generic [ref=e302]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e304]
+                  - button "Toggle flyout" [ref=e306] [cursor=pointer]:
+                    - img [ref=e307]
+                - textbox
+            - generic [ref=e311]:
+              - generic [ref=e312]: Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?*
+              - generic [ref=e313]:
+                - log [ref=e315]
+                - generic [ref=e317]:
+                  - generic [ref=e318]:
+                    - generic [ref=e319]: Select...
+                    - combobox "Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?" [ref=e321]
+                  - button "Toggle flyout" [ref=e323] [cursor=pointer]:
+                    - img [ref=e324]
+                - textbox
+          - separator [ref=e326]
+          - generic [ref=e327]:
+            - heading "U.S. Standard Demographic Questions" [level=3] [ref=e328]
+            - generic [ref=e330]: We invite applicants to share their demographic background. If you choose to complete this survey, your responses may be used to identify areas of improvement in our hiring process.
+            - generic [ref=e332]:
+              - generic [ref=e333]: How would you describe your gender identity? (mark all that apply)
+              - generic [ref=e334]:
+                - log [ref=e336]
+                - generic [ref=e338]:
+                  - generic [ref=e339]:
+                    - generic [ref=e340]: Select...
+                    - combobox "How would you describe your gender identity? (mark all that apply)" [ref=e342]
+                  - button "Toggle flyout" [ref=e344] [cursor=pointer]:
+                    - img [ref=e345]
+            - generic [ref=e348]:
+              - generic [ref=e349]: How would you describe your racial/ethnic background? (mark all that apply)
+              - generic [ref=e350]:
+                - log [ref=e352]
+                - generic [ref=e354]:
+                  - generic [ref=e355]:
+                    - generic [ref=e356]: Select...
+                    - combobox "How would you describe your racial/ethnic background? (mark all that apply)" [ref=e358]
+                  - button "Toggle flyout" [ref=e360] [cursor=pointer]:
+                    - img [ref=e361]
+            - generic [ref=e364]:
+              - generic [ref=e365]: How would you describe your sexual orientation? (mark all that apply)
+              - generic [ref=e366]:
+                - log [ref=e368]
+                - generic [ref=e370]:
+                  - generic [ref=e371]:
+                    - generic [ref=e372]: Select...
+                    - combobox "How would you describe your sexual orientation? (mark all that apply)" [ref=e374]
+                  - button "Toggle flyout" [ref=e376] [cursor=pointer]:
+                    - img [ref=e377]
+            - generic [ref=e380]:
+              - generic [ref=e381]: Do you identify as transgender?
+              - generic [ref=e382]:
+                - log [ref=e384]
+                - generic [ref=e386]:
+                  - generic [ref=e387]:
+                    - generic [ref=e388]: Select...
+                    - combobox "Do you identify as transgender?" [ref=e390]
+                  - button "Toggle flyout" [ref=e392] [cursor=pointer]:
+                    - img [ref=e393]
+            - generic [ref=e396]:
+              - generic [ref=e397]: Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?
+              - generic [ref=e398]:
+                - log [ref=e400]
+                - generic [ref=e402]:
+                  - generic [ref=e403]:
+                    - generic [ref=e404]: Select...
+                    - combobox "Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?" [ref=e406]
+                  - button "Toggle flyout" [ref=e408] [cursor=pointer]:
+                    - img [ref=e409]
+            - generic [ref=e412]:
+              - generic [ref=e413]: Are you a veteran or active member of the United States Armed Forces?
+              - generic [ref=e414]:
+                - log [ref=e416]
+                - generic [ref=e418]:
+                  - generic [ref=e419]:
+                    - generic [ref=e420]: Select...
+                    - combobox "Are you a veteran or active member of the United States Armed Forces?" [ref=e422]
+                  - button "Toggle flyout" [ref=e424] [cursor=pointer]:
+                    - img [ref=e425]
+          - generic [ref=e427]:
+            - separator [ref=e428]
+            - generic [ref=e429]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=e430]
+              - paragraph [ref=e431]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=e432]: As set forth in Inspire11’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=e435]:
+              - generic [ref=e436]: Gender
+              - generic [ref=e437]:
+                - log [ref=e439]
+                - generic [ref=e441]:
+                  - generic [ref=e442]:
+                    - generic [ref=e443]: Select...
+                    - combobox "Gender" [ref=e445]
+                  - button "Toggle flyout" [ref=e447] [cursor=pointer]:
+                    - img [ref=e448]
+            - generic [ref=e450]:
+              - generic [ref=e452]:
+                - generic [ref=e453]: Are you Hispanic/Latino?
+                - generic [ref=e454]:
+                  - log [ref=e456]
+                  - generic [ref=e458]:
+                    - generic [ref=e459]:
+                      - generic [ref=e460]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=e462]
+                    - button "Toggle flyout" [ref=e464] [cursor=pointer]:
+                      - img [ref=e465]
+              - link "Race & Ethnicity Definitions" [ref=e467] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=e468]:
+              - paragraph [ref=e469]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=e470]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=e471]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=e472]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=e473]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=e476]:
+              - generic [ref=e477]: Veteran Status
+              - generic [ref=e478]:
+                - log [ref=e480]
+                - generic [ref=e482]:
+                  - generic [ref=e483]:
+                    - generic [ref=e484]: Select...
+                    - combobox "Veteran Status" [ref=e486]
+                  - button "Toggle flyout" [ref=e488] [cursor=pointer]:
+                    - img [ref=e489]
+            - separator [ref=e491]
+            - generic [ref=e492]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=e493]
+              - generic [ref=e494]:
+                - generic [ref=e495]:
+                  - generic [ref=e496]: Form CC-305
+                  - generic [ref=e497]: Page 1 of 1
+                - generic [ref=e498]:
+                  - generic [ref=e499]: OMB Control Number 1250-0005
+                  - generic [ref=e500]: Expires 04/30/2026
+              - strong [ref=e501]: Why are you being asked to complete this form?
+              - paragraph [ref=e502]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=e503]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=e504] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=e505]: How do you know if you have a disability?
+              - paragraph [ref=e506]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=e507]: "Disabilities include, but are not limited to:"
+              - list [ref=e508]:
+                - listitem [ref=e509]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=e510]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=e511]: Blind or low vision
+                - listitem [ref=e512]: Cancer (past or present)
+                - listitem [ref=e513]: Cardiovascular or heart disease
+                - listitem [ref=e514]: Celiac disease
+                - listitem [ref=e515]: Cerebral palsy
+                - listitem [ref=e516]: Deaf or serious difficulty hearing
+                - listitem [ref=e517]: Diabetes
+                - listitem [ref=e518]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=e519]: Epilepsy or other seizure disorder
+                - listitem [ref=e520]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=e521]: Intellectual or developmental disability
+                - listitem [ref=e522]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=e523]: Missing limbs or partially missing limbs
+                - listitem [ref=e524]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=e525]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=e526]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=e527]: Partial or complete paralysis (any cause)
+                - listitem [ref=e528]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=e529]: Short stature (dwarfism)
+                - listitem [ref=e530]: Traumatic brain injury
+            - generic [ref=e533]:
+              - generic [ref=e534]: Disability Status
+              - generic [ref=e535]:
+                - log [ref=e537]
+                - generic [ref=e539]:
+                  - generic [ref=e540]:
+                    - generic [ref=e541]: Select...
+                    - combobox "Disability Status" [ref=e543]
+                  - button "Toggle flyout" [ref=e545] [cursor=pointer]:
+                    - img [ref=e546]
+            - paragraph [ref=e549]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=e551] [cursor=pointer]
+  - contentinfo [ref=e552]:
+    - generic [ref=e553]:
+      - paragraph [ref=e554]: Powered by
+      - link "Greenhouse logo" [ref=e555] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e556]
