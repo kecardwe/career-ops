@@ -131,6 +131,23 @@ search_queries:
     query: 'site:apply.workable.com "Data Analyst" OR "Analytics Engineer" OR "Business Intelligence" Chicago OR remote'
     enabled: true
 
+  # -- LinkedIn --
+  # NOTE: LinkedIn job pages require login. The liveness checker will mark them as private ([!]).
+  # They still land in pipeline.md for manual review when you're logged in.
+  - name: LinkedIn — Data Analyst Chicago
+    query: 'site:linkedin.com/jobs "Data Analyst" Chicago'
+    enabled: true
+
+  - name: LinkedIn — Analytics & Supply Chain
+    query: 'site:linkedin.com/jobs "Analytics Engineer" OR "Supply Chain Analyst" OR "Business Intelligence Analyst" Chicago OR remote'
+    enabled: true
+
+  # -- Handshake --
+  # NOTE: Handshake requires login. Results are useful for early-career and campus-recruiting roles.
+  - name: Handshake — Data & Analytics
+    query: 'site:joinhandshake.com "Data Analyst" OR "Analytics Engineer" OR "Supply Chain Analyst" OR "Business Intelligence"'
+    enabled: true
+
 # -- Tracked companies --
 # Companies whose career pages are checked directly.
 # scan_method: playwright (default), websearch, greenhouse_api
