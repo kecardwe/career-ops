@@ -141,8 +141,8 @@ search_queries:
     enabled: true
 
   # -- Handshake --
-  - name: Handshake — Data & Analytics
-    query: 'site:joinhandshake.com "Data Analyst" OR "Analytics Engineer" OR "Supply Chain Analyst" OR "Business Intelligence"'
+  - name: Handshake — Daniels Data & Analytics
+    query: 'site:daniels.joinhandshake.com "Data Analyst" OR "Analytics Engineer" OR "Supply Chain Analyst" OR "Business Intelligence"'
     enabled: true
 
 # -- Tracked companies --
@@ -151,6 +151,20 @@ search_queries:
 # For Greenhouse companies, add api: field for faster structured JSON access.
 
 tracked_companies:
+
+  # -- Job portals (logged-in direct navigation) --
+
+  - name: LinkedIn Jobs
+    careers_url: https://www.linkedin.com/jobs/search/?keywords=Data%20Analyst%20OR%20Analytics%20Engineer%20OR%20Supply%20Chain%20Analyst%20OR%20Business%20Intelligence&location=Chicago%2C%20Illinois&f_WT=2%2C1
+    scan_method: playwright
+    notes: "Chicago + remote filter. Data Analyst, Analytics Engineer, Supply Chain, BI. Requires being logged in."
+    enabled: true
+
+  - name: Handshake Daniels
+    careers_url: https://daniels.joinhandshake.com/explore
+    scan_method: playwright
+    notes: "Daniels school Handshake portal. Shows jobs posted for Daniels alumni/students. Requires being logged in."
+    enabled: true
 
   # -- Supply chain visibility / tech (Chicago-based) --
 
