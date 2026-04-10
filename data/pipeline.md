@@ -4,6 +4,34 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 
 ## Pendientes
 
+- [ ] https://job-boards.greenhouse.io/nutrafol/jobs/4667705005 | Nutrafol | Supply Chain Analyst, D365 ERP (Contract)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5045894007 | Anduril Industries | Supply Chain Engineer, Analytics
+- [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008 | Mercer Advisors | Senior Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/axs/jobs/8437860002 | AXS | Sr BI Analyst
+- [ ] https://job-boards.greenhouse.io/dv01/jobs/8497282002 | dv01 | Data Analytics Engineer I
+- [ ] https://job-boards.greenhouse.io/keepersecurity/jobs/4113003009 | Keeper Security | Data Engineer, Analytics & ML Enablement
+- [ ] https://jobs.ashbyhq.com/swans/770ebec9-ade2-4b3f-bf69-09152646d40c | Swans | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/catenaclearing/jobs/5075201007 | Catena Clearing | Data & Insights Analyst
+- [ ] https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4675115005 | GHX | Technical Data Analyst III
+- [ ] https://job-boards.greenhouse.io/fleetio/jobs/5054939007 | Fleetio | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/lithic/jobs/5787434004 | Lithic | Senior Data Analyst, Risk & Compliance
+- [ ] https://jobs.lever.co/sundaysfordogs/0ff0844c-38ff-4268-88c0-2ec9a2037f5a | Sundays for Dogs | Sr. Data & Business Analyst - Supply Chain
+- [ ] https://jobs.lever.co/spreetail/a87de603-d182-4e12-9248-1ad0d0406021 | Spreetail | Supply Chain Analyst - Data
+- [ ] https://jobs.lever.co/ffws/1f4cc1a0-d811-4fee-8236-9f28ccc1ef1c | Foley Family Wines & Spirits | Data Analyst, Supply Chain and Operations
+- [ ] https://jobs.lever.co/super-com/f303a862-5e3e-42b4-95e9-9c7c2a07d0c7 | Super.com | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/tala/a7877846-bd81-4da8-a304-3720312b1da8 | Tala | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/regrello/6aa22361-127c-4880-82bd-d817ee624cd0 | Regrello | Industrial Analyst - Supply Chain/Manufacturing
+- [ ] https://jobs.lever.co/thebouqs.com/43b164d2-e7bf-4949-864f-3f60c38e0c48 | The Bouqs Company | Senior Data Analyst
+- [ ] https://jobs.lever.co/opengov/173d6370-530b-425e-bd6d-00b5cc5b9cf6 | OpenGov | Procurement Operations Analyst
+- [ ] https://jobs.lever.co/disher/6042b396-22f5-4983-b0fc-3653da1bbc34 | DISHER | Sales Operations Analyst
+- [ ] https://jobs.lever.co/Zeller/0838839d-00b6-442a-8aad-84a58f8420b2 | Zeller | Operations Analyst
+- [ ] https://jobs.ashbyhq.com/chainalysis-careers/85298d4c-1481-4c58-8031-1ba76776da0f | Chainalysis | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/chainalysis-careers/2fc9966e-c459-4541-ab8f-9761041f28c8 | Chainalysis | Data Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/The%20Zebra/bdb61355-db92-4205-8da2-9c46745145cf | The Zebra | Senior Data Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/ramp/9c8eb907-e0f3-4241-8e00-793b8a0acbf6 | Ramp | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/Lime/a567b56d-4e3c-432e-b9ad-38ee3546ef3c | Lime | Supply Chain Analyst - Product Master Data Management
+- [ ] https://jobs.ashbyhq.com/Lime/a9eda592-e13b-4455-8a5e-e72724ff86f8 | Lime | Financial Analyst, Supply Chain
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
