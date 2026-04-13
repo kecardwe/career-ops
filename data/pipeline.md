@@ -4,6 +4,38 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 
 ## Pendientes
 
+- [ ] https://job-boards.greenhouse.io/letsgetchecked/jobs/4805757101 | LetsGetChecked | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/xapo61/jobs/7677440003 | Xapo Bank | Operations Analyst (Remote - Work from Anywhere)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8434287002 | Airtable | AI Analytics Engineer (AI & Analytics Platform)
+- [ ] https://job-boards.greenhouse.io/6sense/jobs/7769448 | 6sense | Sr. GTM Analytics Analyst
+- [ ] https://job-boards.greenhouse.io/vianttechnology/jobs/4204282009 | Viant Technology | Sr. Data Analyst
+- [ ] https://job-boards.greenhouse.io/weedmaps77/jobs/8413498002 | Weedmaps | Staff Data Analyst (Remote)
+- [ ] https://job-boards.greenhouse.io/dvtrading/jobs/4682331005 | DV Trading | Fixed Income Operations Analyst
+- [ ] https://jobs.ashbyhq.com/truemed/31a9b2fd-cff8-44a9-adee-503fd103cc22 | Truemed | Data Analyst
+- [ ] https://jobs.lever.co/myollie/16de9015-270c-4176-9636-aa9f232c9148 | Ollie | Data Analyst, Retention
+- [ ] https://jobs.lever.co/arcadia/0b2c9908-a2f6-46a0-82ef-8c8275a08b3b | Arcadia | Senior Data Analyst
+- [ ] https://jobs.lever.co/thefreeosk/d62d5b06-209d-468b-8b53-696576879150 | Freeosk | Data Insights Analyst
+- [ ] https://jobs.lever.co/outreach/b6d80618-0283-4695-be04-f327f95b1bb8 | Outreach | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/cority/97c7c8fc-76c3-4ac0-9d90-59dbc2f8ee0a | Cority | Sr Analytics Engineer
+- [ ] https://jobs.lever.co/greenlight/084768a3-1c27-4390-b94c-d987f636811a | Greenlight Financial | Data Analyst
+- [ ] https://jobs.lever.co/greenlight/beded9c4-6acf-4fcc-8aa9-8870555d2bfb | Greenlight Financial | Associate Data Analyst
+- [ ] https://jobs.lever.co/owner/da71fdd1-4893-47f5-9203-62bb576b2ac6 | Owner | Analytics Engineer, GTM
+- [ ] https://jobs.lever.co/toptal/a52e8ebf-994b-4fdd-a494-331ccde19214 | Toptal | Business Analyst, Strategy & Analytics
+- [ ] https://jobs.lever.co/metabase/5eca795c-48dd-496a-be23-2181068a5450 | Metabase | Analytics Engineer
+- [ ] https://jobs.lever.co/palantir/46530906-4822-4cce-ab86-ef7014d8547f | Palantir | Operations Analyst - US Government
+- [ ] https://jobs.lever.co/cscgeneration-2/4d05a16b-d55f-439d-897f-56ccfe88640f | CSC Generation | Business Operations Analyst
+- [ ] https://jobs.lever.co/questanalytics/b587b82d-29b9-4466-944a-c2454e15543a | Quest Analytics | Data Analyst, Network Analytics
+- [ ] https://jobs.lever.co/transparentpartners/cf82fccb-d2da-47c4-8da5-09ecd5dcada0 | Transparent Partners | Analyst / Senior Analyst, Data & Analytics
+- [ ] https://jobs.ashbyhq.com/atlan/a0a20ce7-26b1-4681-959e-0cc8446db790 | Atlan | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/pylon-labs/5e408085-d4e0-4f05-8a93-010751a43dbf | Pylon | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/almedia/ae9db321-5165-4e8f-9635-dd37358470a4 | Almedia | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/dandy/fbceef92-b7d7-4f1f-89b4-2731569108fe | Dandy | Data Analyst - Supply Chain
+- [ ] https://jobs.ashbyhq.com/literati/2c3e149d-21a3-479b-a260-e14c7cf008aa | Literati | Business Intelligence (BI) / Data Engineer
+- [ ] https://apply.workable.com/mediavine/j/4BAEB3C046/ | Mediavine | Data Analyst (Remote - US)
+- [ ] https://apply.workable.com/whizz/j/DF1C081BB4 | WHIZZ | Data Analyst (Remote)
+- [ ] https://apply.workable.com/truedata/j/973BE33E2F/ | TrueData Solutions | Data Analyst
+- [ ] https://apply.workable.com/workmoney/j/9564F4C4AE/ | WorkMoney | Data Analyst
+
 - [ ] https://job-boards.greenhouse.io/nutrafol/jobs/4667705005 | Nutrafol | Supply Chain Analyst, D365 ERP (Contract)
 - [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5045894007 | Anduril Industries | Supply Chain Engineer, Analytics
 - [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008 | Mercer Advisors | Senior Business Intelligence Analyst
