@@ -36,6 +36,16 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://apply.workable.com/truedata/j/973BE33E2F/ | TrueData Solutions | Data Analyst
 - [ ] https://apply.workable.com/workmoney/j/9564F4C4AE/ | WorkMoney | Data Analyst
 
+- [ ] https://job-boards.greenhouse.io/harrisassociates/jobs/4661489006 | Harris Associates | Data Analyst, Data Ops
+- [ ] https://job-boards.greenhouse.io/khanacademy/jobs/7818434 | Khan Academy | Data Analyst I, Analytics Reporting (24 months fixed-term)
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/7686583003 | Oddball | Data Analyst
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8485240002 | StockX | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/sigmoid/jobs/8452233002 | Sigmoid | Business Analyst
+- [ ] https://job-boards.greenhouse.io/blueroseresearch/jobs/4995908004 | Blue Rose Research | Data Analyst - Research
+- [ ] https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5160584008 | Horizon Industries | Databricks Data Engineer
+- [ ] https://apply.workable.com/adf-medical-services-inc/j/FCA1421437/ | ADF Medical Services | Data Analyst
+- [ ] https://apply.workable.com/workmoney/j/1F1FCD4218/ | WorkMoney | Data Analyst (U.S. Remote)
+
 - [ ] https://job-boards.greenhouse.io/nutrafol/jobs/4667705005 | Nutrafol | Supply Chain Analyst, D365 ERP (Contract)
 - [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5045894007 | Anduril Industries | Supply Chain Engineer, Analytics
 - [ ] https://job-boards.greenhouse.io/merceradvisors/jobs/5046203008 | Mercer Advisors | Senior Business Intelligence Analyst
