@@ -74,6 +74,40 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.ashbyhq.com/Lime/a567b56d-4e3c-432e-b9ad-38ee3546ef3c | Lime | Supply Chain Analyst - Product Master Data Management
 - [ ] https://jobs.ashbyhq.com/Lime/a9eda592-e13b-4455-8a5e-e72724ff86f8 | Lime | Financial Analyst, Supply Chain
 
+- [ ] https://job-boards.greenhouse.io/archer56/jobs/7711258003 | Archer | Supply Chain Cost Analyst
+- [ ] https://job-boards.greenhouse.io/connectionshealthsolutions/jobs/4232437009 | Connections Health Solutions | Senior Business Intelligence Developer
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5115119007 | Anduril Industries | Operations Analyst - OT Hardware
+- [ ] https://job-boards.greenhouse.io/project44/jobs/7800834 | project44 | Business Analyst - UKG
+- [ ] https://job-boards.greenhouse.io/enova/jobs/7728120 | Enova International | Website Analytics Specialist
+- [ ] https://job-boards.greenhouse.io/enova/jobs/7368745 | Enova International | Data Engineer
+- [ ] https://job-boards.greenhouse.io/enova/jobs/5798243 | Enova International | Analytics Analyst - Pricing & Profitability
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8421611002 | Databricks | Senior Business Analyst
+- [ ] https://job-boards.greenhouse.io/checkr/jobs/7650448 | Checkr | Senior Data Engineer
+- [ ] https://boards.greenhouse.io/attain/jobs/5025225004 | Attain | Data Analyst, Ads Measurement and Insights
+- [ ] https://job-boards.greenhouse.io/upwork/jobs/7620323003 | Upwork | Lead Data Analyst, Marketing Analytics
+- [ ] https://job-boards.greenhouse.io/recharge/jobs/8490399002 | Recharge | Senior Data Analyst, GTM Analytics
+- [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4615564005 | New York Times | Analyst, Data & Insights, Storytelling Analytics
+- [ ] https://job-boards.greenhouse.io/nift/jobs/4991268007 | Nift | Senior Data Analytics / Business Analyst
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8414932002 | Calendly | Senior Data Analyst, Product
+- [ ] https://jobs.lever.co/gohighlevel/f7bf0739-1d81-4a58-9fb4-9724cd0d4769 | HighLevel | Senior Analytics Engineer - Product & Customer Analytics
+- [ ] https://jobs.lever.co/tala/8bf8cbbd-e435-40a0-ac3b-f19ecfb171d7 | Tala | Analytics Engineer II
+- [ ] https://jobs.lever.co/airalo/7f8d89ed-7013-4511-a31d-aded6b80fc6f | Airalo | Senior Analytics Engineer, Pricing
+- [ ] https://jobs.lever.co/airalo/987a8199-5ab9-43f9-9667-9b779df29963 | Airalo | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/GurobiOptimization/3c6cac21-dd4d-440b-8b92-089d304a95b2 | Gurobi Optimization | Senior Data & Analytics Engineer
+- [ ] https://jobs.lever.co/brillio-2/9260e921-a1f6-43e7-8e43-2d692325ae94 | Brillio | CX Senior Analytics Engineer
+- [ ] https://jobs.lever.co/vida/93d4286a-10b2-402e-adb4-e6a4810db927 | Vida Health | Data Analyst - Business Intelligence/Healthcare Analytics
+- [ ] https://jobs.lever.co/BestEgg/ad1daacc-d390-405a-bd1c-16b02a78e7e4 | Best Egg | Web Analyst - Web Data and Analytics
+- [ ] https://jobs.ashbyhq.com/alchemy/cdb0fb07-d52a-42d8-b4e6-d037c2afeb10 | Alchemy | Data Analytics Engineer
+- [ ] https://careers.united.com/us/en/job/WHQ00021214/Senior-Analyst-Supply-Chain-Process-and-Standards | United Airlines | Senior Analyst - Supply Chain Process and Standards
+- [ ] https://careers.united.com/us/en/job/WHQ00024753/Senior-Analyst-Strategic-Sourcing-Analytics | United Airlines | Senior Analyst - Strategic Sourcing Analytics
+- [ ] https://careers.united.com/us/en/job/UAIUADUSWHQ00025165EXTERNALENUSTALEO/Senior-Business-Analyst-Data | United Airlines | Senior Business Analyst - Data
+- [ ] https://careers.united.com/job/15548282/senior-analyst-advanced-data-analytics-chicago/ | United Airlines | Senior Analyst - Advanced Data Analytics
+- [ ] https://careers.morningstar.com/us/en/job/REQ-053519/Senior-Quantitative-Analyst | Morningstar | Senior Quantitative Analyst
+- [ ] https://jobs.grainger.com/job/LOUISVILLE-Analyst,-Supply-Chain-Rotational-Development-Program-Louisville,-KY-KY-40219/1315928100/ | Grainger | Analyst, Supply Chain Rotational Development Program (Louisville)
+- [ ] https://jobs.grainger.com/job/MIRA-LOMA-Analyst,-Supply-Chain-Rotational-Development-Program-Mira-Loma,-CA-CA-91752-1018/1316129000/ | Grainger | Analyst, Supply Chain Rotational Development Program (Mira Loma)
+- [ ] https://jobs.grainger.com/job/BORDENTOWN-Analyst,-Supply-Chain-Rotational-Development-Program-Bordentown,-NJ-NJ-08505-4750/1316125300/ | Grainger | Analyst, Supply Chain Rotational Development Program (Bordentown)
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUS3EDF40BDAEF3423D9AEABDE327A31C40EXTERNALENUSC02BAB9F5D7F48089DCEC118EFC347AC/Senior-Data-Analytics-Engineer | Snowflake | Senior Data Analytics Engineer
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
