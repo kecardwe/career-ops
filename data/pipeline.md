@@ -108,6 +108,17 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.grainger.com/job/BORDENTOWN-Analyst,-Supply-Chain-Rotational-Development-Program-Bordentown,-NJ-NJ-08505-4750/1316125300/ | Grainger | Analyst, Supply Chain Rotational Development Program (Bordentown)
 - [ ] https://careers.snowflake.com/us/en/job/SNCOUS3EDF40BDAEF3423D9AEABDE327A31C40EXTERNALENUSC02BAB9F5D7F48089DCEC118EFC347AC/Senior-Data-Analytics-Engineer | Snowflake | Senior Data Analytics Engineer
 
+- [ ] https://job-boards.greenhouse.io/atlassand/jobs/8511753002 | Atlas Energy Solutions | Supply Chain Analyst
+- [ ] https://job-boards.greenhouse.io/smarterdx/jobs/5120281007 | SmarterDx | Senior Business Analyst
+- [ ] https://job-boards.greenhouse.io/blueroseresearch/jobs/5815559004 | Blue Rose Research | Analytics Manager - Research & Client Strategy
+- [ ] https://job-boards.greenhouse.io/sportygroup/jobs/4726334101 | Sporty Group | Data Analyst
+- [ ] https://job-boards.greenhouse.io/gallup/jobs/4217886009 | Gallup | Data Analyst
+- [ ] https://job-boards.greenhouse.io/doximity/jobs/7787454 | Doximity | Data Analyst, Business Intelligence
+- [ ] https://job-boards.greenhouse.io/xai/jobs/5112514007 | xAI | Data Analyst - Physical Infrastructure
+- [ ] https://job-boards.greenhouse.io/datakindinc/jobs/7690497003 | DataKind | Data Engineer (Remote-US)
+- [ ] https://job-boards.greenhouse.io/vegaamericas/jobs/4674700006 | VEGA Americas | Data Analyst
+- [ ] https://jobs.ashbyhq.com/forward%20financing/41cbef16-da4c-42f6-9a7c-b36ea9fa2a9c | Forward Financing | Manager, Business Intelligence
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
