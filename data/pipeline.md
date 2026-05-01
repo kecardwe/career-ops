@@ -118,6 +118,15 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/datakindinc/jobs/7690497003 | DataKind | Data Engineer (Remote-US)
 - [ ] https://job-boards.greenhouse.io/vegaamericas/jobs/4674700006 | VEGA Americas | Data Analyst
 - [ ] https://jobs.ashbyhq.com/forward%20financing/41cbef16-da4c-42f6-9a7c-b36ea9fa2a9c | Forward Financing | Manager, Business Intelligence
+- [ ] https://job-boards.greenhouse.io/upstart/jobs/7778782 | Upstart | Staff Data Analyst, Servicing
+- [ ] https://jobs.havi.com/job/Chicago-Data-Analyst-IL-60290/1349888055/ | HAVI | Data Analyst (Supply Chain)
+- [ ] https://www.google.com/about/careers/applications/jobs/results/142229588938760902-bi-analyst/ | Google | BI Analyst, Finance, Finance Data and Analytics
+- [ ] https://jobs.lever.co/sonatype/86fbcaa1-c506-4286-a42d-ab219744343e | Sonatype | Senior Data Analyst
+- [ ] https://jobs.lever.co/whoop/c0237666-dcf7-469a-9f35-544a8922b9e7 | Whoop | Business Analyst II (Global Operations)
+- [ ] https://jobs.lever.co/talentwerx.io/df126fd1-0a4d-488e-b1d1-273bae2264d0 | EXPANSIA | Business Intelligence Analyst (Manufacturing) III
+- [ ] https://jobs.lever.co/PhoenixTailings/8a231840-3714-4ffa-b523-b07c93282d03 | Phoenix Tailings | Data Analyst – Leadership Development Program
+- [ ] https://jobs.lever.co/steerbridge/591fc6b2-bafa-41c7-8143-3cda18e78fd8 | SteerBridge | Data Analyst
+- [ ] https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384017002 | Further | Graduate Leadership Program | Data Analyst
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
