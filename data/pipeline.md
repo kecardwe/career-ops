@@ -128,6 +128,22 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/steerbridge/591fc6b2-bafa-41c7-8143-3cda18e78fd8 | SteerBridge | Data Analyst
 - [ ] https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384017002 | Further | Graduate Leadership Program | Data Analyst
 
+- [ ] https://job-boards.greenhouse.io/fairlife/jobs/5117349007 | fairlife | Master Data Analyst
+- [ ] https://job-boards.greenhouse.io/wilsonelser/jobs/5200828008 | Wilson Elser | Data Analyst
+- [ ] https://job-boards.greenhouse.io/atwellgroup/jobs/5101016007 | Atwell LLC | Data Analyst
+- [ ] https://job-boards.greenhouse.io/axios/jobs/7799102 | Axios | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/warp/jobs/5828901004 | Warp | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/veeamsoftware/jobs/4849334101 | Veeam Software | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/accessibe/jobs/4832761101 | accessiBe | Go To Market (GTM) Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/srsacquiom/jobs/5111680007 | SRS Acquiom | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7555223 | Samsara | Senior Sales Operations Analyst
+- [ ] https://job-boards.greenhouse.io/recidiviz/jobs/4657637006 | Recidiviz | Data Analyst
+- [ ] https://jobs.lever.co/mhnchicago/130d5dee-10ad-470f-906d-d09beafc2ba1 | Medical Home Network | Senior Healthcare Data Analyst
+- [ ] https://jobs.lever.co/matchgroup/e0c5889f-76b7-43ad-ba6e-fb9a6c61330c | Match Group | Senior Data Analyst
+- [ ] https://jobs.lever.co/matchgroup/273aed13-776f-48dc-a90f-ec1f8a4fe613 | Match Group | Senior Data Analyst, Core
+- [ ] https://jobs.ashbyhq.com/trovy/396b576a-c7c1-49ec-b018-27d0364ea55f | Trovy | Data Analyst
+- [ ] https://apply.workable.com/healthix/j/564F0DB9EC/ | Healthix | Data Analyst
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
