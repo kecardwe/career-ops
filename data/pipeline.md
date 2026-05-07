@@ -144,6 +144,16 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.ashbyhq.com/trovy/396b576a-c7c1-49ec-b018-27d0364ea55f | Trovy | Data Analyst
 - [ ] https://apply.workable.com/healthix/j/564F0DB9EC/ | Healthix | Data Analyst
 
+- [ ] https://boards.greenhouse.io/gusto/jobs/5189839 | Gusto | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/shearerssnacks/jobs/8217311002 | Shearer's Foods | Supply Chain Data Analyst
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5820760004 | PlayStation Global | Business Analyst, Supply Chain (Contract)
+- [ ] https://jobs.lever.co/omnidian/6fc34a7e-c5d1-432b-b9cb-236a15756cf3 | Omnidian | Supply Chain Analyst
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5839566004 | Natera | Logistics Analyst
+- [ ] https://job-boards.greenhouse.io/veeamsoftware/jobs/4841276101 | Veeam Software | Sr. Data Analyst
+- [ ] https://job-boards.greenhouse.io/dv01/jobs/8014788002 | dv01 | Data Analyst, Capital Markets Solutions
+- [ ] https://job-boards.greenhouse.io/platformscience/jobs/6210564003 | Platform Science | Data Analyst
+- [ ] https://careers.morningstar.com/us/en/job/REQ-045592/Analyst-Quantitative-Analytics | Morningstar | Analyst, Quantitative Analytics
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
