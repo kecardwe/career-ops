@@ -154,6 +154,24 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/platformscience/jobs/6210564003 | Platform Science | Data Analyst
 - [ ] https://careers.morningstar.com/us/en/job/REQ-045592/Analyst-Quantitative-Analytics | Morningstar | Analyst, Quantitative Analytics
 
+- [ ] https://job-boards.greenhouse.io/accenturefederalservices/jobs/4681129006 | Accenture Federal Services | Operations Analyst
+- [ ] https://job-boards.greenhouse.io/youcom/jobs/5174616008 | You.com | Data Engineer
+- [ ] https://jobs.lever.co/loadsmart/d46af12b-720d-4a68-b6e5-f2f535d12e3c | Loadsmart | Senior Business Data Analyst, Brokerage
+- [ ] https://jobs.lever.co/thrivemarket/ca6c996c-649b-4393-a66f-3a7da70074b8 | Thrive Market | Senior Data Analyst
+- [ ] https://jobs.lever.co/thrivemarket/79383dc1-b902-420b-8fe5-57f8162e72f1 | Thrive Market | Senior Data Analyst, Product
+- [ ] https://jobs.lever.co/thrivemarket/a5fdc939-9eb1-422f-a026-5e36971f3b73 | Thrive Market | Senior Data Analyst, Member Experience
+- [ ] https://jobs.lever.co/thrivemarket/5e2809e3-203a-4bb4-ae0b-b69199525391 | Thrive Market | Senior Data Analyst, Lifecycle Marketing
+- [ ] https://jobs.lever.co/thrivemarket/7bdf8f6e-7d37-431f-945d-8482de49dd88 | Thrive Market | Senior Data Analyst, Merchandising
+- [ ] https://jobs.lever.co/airslate/551b7767-56c8-4d2c-b17a-b288db88fc46 | airSlate | Senior Data Analyst
+- [ ] https://jobs.lever.co/spreetail/1a281a2c-bb60-43e4-8b3a-2a9224378224 | Spreetail | Inventory Analyst - Data
+- [ ] https://jobs.lever.co/spreetail/a6a2b067-b3a5-4d53-8ae4-a117aae035c0 | Spreetail | Fulfillment Center Inventory Analyst
+- [ ] https://jobs.lever.co/foodsmart/c711b611-ac13-4167-8b60-5c0adb32af26 | Foodsmart | Staff Data Scientist, Growth Analytics
+- [ ] https://jobs.lever.co/jobgether/5e8f926e-ad2c-4e1b-9e2b-6d1e96428a42 | Jobgether | Lead Data Analyst
+- [ ] https://jobs.lever.co/jobgether/5d1fc42b-2963-4552-a34a-e7f598440e6d | Jobgether | Senior Data Analyst - Supply Chain Analytics
+- [ ] https://jobs.lever.co/jobgether/7775b82b-e541-491e-990c-d81da046eb6a | Jobgether | Senior Data Analyst - REMOTE
+- [ ] https://jobs.lever.co/jobgether/72bb9db5-fbcf-461f-9452-13be277db652 | Jobgether | Data Analyst, Risk and Operational Performance
+- [ ] https://jobs.ashbyhq.com/loopio/827c61b0-c304-4171-b6d9-c4e3ef10f498 | Loopio | Sr. Business Intelligence Analyst
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
