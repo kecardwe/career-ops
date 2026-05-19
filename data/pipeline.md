@@ -172,6 +172,16 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/jobgether/72bb9db5-fbcf-461f-9452-13be277db652 | Jobgether | Data Analyst, Risk and Operational Performance
 - [ ] https://jobs.ashbyhq.com/loopio/827c61b0-c304-4171-b6d9-c4e3ef10f498 | Loopio | Sr. Business Intelligence Analyst
 
+- [ ] https://job-boards.greenhouse.io/weee/jobs/7679390003 | Weee! | Supply Chain Analyst I, Middle Mile and Last Mile Transportation
+- [ ] https://job-boards.greenhouse.io/themotleyfool/jobs/5101734007 | The Motley Fool | Business Intelligence Analyst (Contract)
+- [ ] https://job-boards.greenhouse.io/shopltk/jobs/7671051003 | LTK USA | Data Analyst
+- [ ] https://job-boards.greenhouse.io/layerzerolabs/jobs/5787956004 | LayerZero Labs | Data Analyst
+- [ ] https://job-boards.greenhouse.io/spacex/jobs/8330510002 | SpaceX | Data Analyst, Supply Chain (Starlink)
+- [ ] https://job-boards.greenhouse.io/betterhelpcom/jobs/4959413008 | BetterHelp | Senior Business Intelligence and Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/cision/jobs/4839248101 | Cision | Lead Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/alma/jobs/8515071002 | Alma | Business Intelligence Group Manager, Ops & CX
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8472178002 | GitLab | Senior Data Analyst, Marketing Analytics
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
