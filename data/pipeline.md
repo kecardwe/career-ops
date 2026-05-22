@@ -182,6 +182,20 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/alma/jobs/8515071002 | Alma | Business Intelligence Group Manager, Ops & CX
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8472178002 | GitLab | Senior Data Analyst, Marketing Analytics
 
+- [ ] https://job-boards.greenhouse.io/tines/jobs/5988976004 | Tines | Customer Experience Operations Analyst
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic | Analytics Data Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Analytics Data Engineering Manager, Product
+- [ ] https://job-boards.greenhouse.io/accenturefederalservices/jobs/4644953006 | Accenture Federal Services | Senior Data Analyst
+- [ ] https://jobs.ashbyhq.com/satispay/891d2905-4cf2-432e-9644-f3c0c6500a4f | Satispay | Data Analyst - Analytics Engineering
+- [ ] https://jobs.ashbyhq.com/column/3dda28ad-ec5e-4335-88c4-67e2485daddc | Column | Data Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/ARQ/058484c3-c465-4989-b5bf-b3d51e8cfe36 | ARQ | Data Analyst (New York)
+- [ ] https://jobs.ashbyhq.com/kraken.com/eb75f7a1-dda4-4d64-8822-babe371116e7 | Kraken | Data Analyst, Regulatory Analytics and Reporting
+- [ ] https://apply.workable.com/workana-premium/j/72C8941231 | Workana | Senior Data Analytics Engineer
+- [ ] https://jobs.lever.co/gopuff/e75985cb-3e75-4b86-8b79-9212b8287b82 | Gopuff | Supply Chain Analyst
+- [ ] https://jobs.lever.co/chainlink/23af8d29-04e3-400a-9b5c-a1a2511f0494 | Chainlink Labs | Senior Data Analyst, Analytics
+- [ ] https://jobs.lever.co/steerbridge/084800cd-1bae-4b31-b653-da05c521b2d6 | SteerBridge | Data Engineer II
+- [ ] https://jobs.lever.co/packagex/b81ac35a-4093-40cc-a18a-c49a4b696b3b | PackageX | Senior Data Scientist
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
