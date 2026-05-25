@@ -196,6 +196,19 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/steerbridge/084800cd-1bae-4b31-b653-da05c521b2d6 | SteerBridge | Data Engineer II
 - [ ] https://jobs.lever.co/packagex/b81ac35a-4093-40cc-a18a-c49a4b696b3b | PackageX | Senior Data Scientist
 
+- [ ] https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5228352008 | Renaissance Learning | Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/analyticservicesinc/jobs/5222813008 | Analytic Services Inc | Data Analyst
+- [ ] https://job-boards.greenhouse.io/zetaglobal/jobs/5788828004 | Zeta Global | Senior Manager, Data Science & Analytics
+- [ ] https://jobs.lever.co/cscgeneration-2/e6832792-fed1-40a8-8ad9-05a9cf320a1e | CSC Generation | Business Operations Analyst
+- [ ] https://jobs.lever.co/butcherbox/6ca16272-f7bd-4c7d-beda-d9530cfa6b69 | ButcherBox | Procurement Analyst
+- [ ] https://jobs.lever.co/trevipay/8396b61a-cf00-4ce2-b7be-6ec6b1a4b1f8 | TreviPay | Data Analyst / Analytics Engineer
+- [ ] https://jobs.lever.co/resilientco/05be8ae1-e10b-4e9d-9e1e-266a72cdcc68 | Resilient Co | Jr. Business Analyst
+- [ ] https://jobs.lever.co/neighbor/da1304b7-89ad-4ac0-99e8-9c0cf8284f1c | Neighbor | Data Engineer
+- [ ] https://jobs.lever.co/neighbor/dc1bb13c-4909-440b-b542-761c5cf4be84 | Neighbor | Data Analyst
+- [ ] https://jobs.lever.co/neighbor/034252c8-d93c-40a0-95dc-2830273acba0 | Neighbor | Senior Data Analyst
+- [ ] https://jobs.lever.co/civitech/ac698b6a-83b6-4d8e-b487-3b40dc39b295 | Civitech | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff | Perplexity | Analytics Engineer
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
