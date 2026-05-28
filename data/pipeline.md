@@ -209,6 +209,19 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/civitech/ac698b6a-83b6-4d8e-b487-3b40dc39b295 | Civitech | Analytics Engineer
 - [ ] https://jobs.ashbyhq.com/perplexity/fed8d2c4-9c82-43ad-a168-434146c759ff | Perplexity | Analytics Engineer
 
+- [ ] https://job-boards.greenhouse.io/honeycombinsurance/jobs/4673900005 | Honeycomb Insurance | Data Analyst
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7851785 | Fin | Senior GTM Data Analyst
+- [ ] https://job-boards.greenhouse.io/interwellhealth/jobs/5122788008 | Interwell Health | Staff Data Engineer
+- [ ] https://job-boards.greenhouse.io/enova/jobs/7799633 | Enova International | Data Scientist - Portfolio Consumer (Hybrid)
+- [ ] https://job-boards.greenhouse.io/nscaleoperationsukltd/jobs/4872127101 | Nscale | Data Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/greenthumbindustries/jobs/7918277 | Green Thumb Industries | Data Scientist
+- [ ] https://job-boards.greenhouse.io/fairlife/jobs/5103068007 | fairlife | Sr. Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/faire/jobs/8535853002 | Faire | Senior Analytics Engineer - GTM
+- [ ] https://job-boards.greenhouse.io/scopely/jobs/5156232008 | Scopely | Senior Analytics Engineer
+- [ ] https://to.indeed.com/aalf8fh4jbqb | Zekelman Industries | Business Analyst
+- [ ] https://to.indeed.com/aajf48l4tyw6 | AIT Worldwide Logistics | Data Analyst
+- [ ] https://to.indeed.com/aac8h2szb6sf | Advanced Purification Engineering | SIOP Analyst
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
