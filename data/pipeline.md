@@ -4,6 +4,9 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 
 ## Pendientes
 
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8558879002 | Calendly | Senior Data Analyst, Product
+- [ ] https://apply.workable.com/assist-rx/j/81A33004A0 | AssistRx | Data Analyst Business Intelligence
+
 - [ ] https://job-boards.greenhouse.io/letsgetchecked/jobs/4805757101 | LetsGetChecked | Business Intelligence Analyst
 - [ ] https://job-boards.greenhouse.io/xapo61/jobs/7677440003 | Xapo Bank | Operations Analyst (Remote - Work from Anywhere)
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8434287002 | Airtable | AI Analytics Engineer (AI & Analytics Platform)
