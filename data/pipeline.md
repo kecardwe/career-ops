@@ -225,6 +225,20 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aajf48l4tyw6 | AIT Worldwide Logistics | Data Analyst
 - [ ] https://to.indeed.com/aac8h2szb6sf | Advanced Purification Engineering | SIOP Analyst
 
+- [ ] https://job-boards.greenhouse.io/lovelytics/jobs/4218274009 | Lovelytics | Technical Business Analyst
+- [ ] https://job-boards.greenhouse.io/enova/jobs/7909468 | Enova International | Consumer Insights Analyst (Hybrid)
+- [ ] https://job-boards.greenhouse.io/otter/jobs/8444902002 | Otter | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/wpp/jobs/8516442002 | WPP | Data Engineer (India)
+- [ ] https://jobs.lever.co/jobgether/8f9587e8-94a5-4dca-91b1-72d1c9adb30b | Jobgether | Lead Data Analyst
+- [ ] https://jobs.lever.co/jobgether/0d090b34-503e-47a8-b817-2d7efb8bc618 | Jobgether | Senior Data Scientist
+- [ ] https://jobs.lever.co/jobgether/263a6a53-a0ae-4b2c-9973-c41b82f3a3e2 | Jobgether | Senior Operations Analyst
+- [ ] https://jobs.lever.co/pulsedata/fcb84cd8-441a-4ce4-80b2-833f47a2f074 | pulseData | Data Analyst
+- [ ] https://jobs.lever.co/WealthFinancialTechnologies/a25f8bbe-9c6a-45ec-b724-ce03dc17e37f | Wealth.com | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/turvo/4235acd9-f9ac-479f-ab52-1a6c0e471514 | Turvo | Sales Operations Analyst
+- [ ] https://jobs.lever.co/palantir/341cb7bb-1557-4917-8e62-cf02aae67115 | Palantir | Workplace Operations Analyst
+- [ ] https://jobs.lever.co/voltus/a3b26f0a-a9a5-4b66-b48a-bd4f73879d15 | Voltus | Market Operations Analyst
+- [ ] https://jobs.ashbyhq.com/alchemy/75e6dd36-4916-4e72-a596-037945fd741f | Alchemy | Data Analytics Engineer
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
