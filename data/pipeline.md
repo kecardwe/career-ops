@@ -239,6 +239,11 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/voltus/a3b26f0a-a9a5-4b66-b48a-bd4f73879d15 | Voltus | Market Operations Analyst
 - [ ] https://jobs.ashbyhq.com/alchemy/75e6dd36-4916-4e72-a596-037945fd741f | Alchemy | Data Analytics Engineer
 
+- [ ] https://job-boards.greenhouse.io/anteriad/jobs/5980230004 | Anteriad | Data Engineer
+- [ ] https://job-boards.greenhouse.io/hopskipdrive/jobs/5848097004 | HopSkipDrive | Data Analyst - Revenue Ops
+- [ ] https://jobs.ashbyhq.com/ironcladhq/92c4c68b-e18d-4f87-bb3b-fcac248fdd51 | Ironclad | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/e7e19db2-8735-428b-bf22-c7109a3e336a | Supabase | Staff Data Analyst, GTM
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
