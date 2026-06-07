@@ -244,6 +244,25 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.ashbyhq.com/ironcladhq/92c4c68b-e18d-4f87-bb3b-fcac248fdd51 | Ironclad | Senior Analytics Engineer
 - [ ] https://jobs.ashbyhq.com/supabase/e7e19db2-8735-428b-bf22-c7109a3e336a | Supabase | Staff Data Analyst, GTM
 
+- [ ] https://to.indeed.com/aadx6z22cnj7 | Caterpillar | Business Intelligence Analyst
+- [ ] https://to.indeed.com/aa98vwf7h966 | Village of Arlington Heights | IT Business Analyst
+- [ ] https://to.indeed.com/aalxy8q28rgm | Mindsgroup Infotech LLC | Business Analyst
+- [ ] https://to.indeed.com/aabzlw8xqvtw | Imperium Dynamics | Business Analyst
+- [ ] https://to.indeed.com/aamnyr4w6ftg | National Lift Truck | Data & Reporting Analyst (Entry Level)
+- [ ] https://to.indeed.com/aagw9y89ssjh | DataAnnotation | Logistics Analyst - AI Trainer
+- [ ] https://to.indeed.com/aar4zlbn9spq | Old World Industries | Operations Data Analyst
+- [ ] https://to.indeed.com/aa4c76jybffz | Mitsubishi Turbocharger and Engine America | Inventory Analyst
+- [ ] https://to.indeed.com/aa27rk9cxy8g | ProCraft Cabinetry | Inventory Analyst
+- [ ] https://to.indeed.com/aay8xvf4r7pm | DataAnnotation | Analytics Engineer - AI Trainer
+- [ ] https://to.indeed.com/aa9kkl6ncz7c | Higginbotham | Data Engineer
+- [ ] https://to.indeed.com/aa4b88666cb4 | EARNEST | Analytics Engineer II
+- [ ] https://to.indeed.com/aaqpxgpq2dzg | HelioCampus | Analytics Engineer
+- [ ] https://to.indeed.com/aaxdkckzr7lm | BAE Systems USA | Governance Business Intelligence Analyst (Quality Engineering)
+- [ ] https://job-boards.greenhouse.io/fixify/jobs/5231892008 | Fixify | Senior IT Operations Analyst
+- [ ] https://jobs.lever.co/glsllc/d8e09037-7877-43c7-adc1-053cfb2ef5bf | Global Lending Services | Operations Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/ProjectGrowth/f6917468-4fd0-48af-9b4b-3734dda3800e/application | ProjectGrowth | Wholesale Operations Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://apply.workable.com/intellectsoft/j/7E489136DD | Intellectsoft | Strong Middle Data Analyst / BI Developer (IR-522) (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
