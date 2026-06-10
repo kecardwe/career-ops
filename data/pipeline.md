@@ -263,6 +263,26 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.ashbyhq.com/ProjectGrowth/f6917468-4fd0-48af-9b4b-3734dda3800e/application | ProjectGrowth | Wholesale Operations Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://apply.workable.com/intellectsoft/j/7E489136DD | Intellectsoft | Strong Middle Data Analyst / BI Developer (IR-522) (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 
+- [ ] https://job-boards.greenhouse.io/zetaglobal/jobs/6008972004 | Zeta Global | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/bluelabsanalyticsinc/jobs/5106857007 | BlueLabs | Data Analyst I
+- [ ] https://job-boards.greenhouse.io/accenturefederalservices/jobs/4652651006 | Accenture Federal Services | Senior Business Analyst
+- [ ] https://job-boards.greenhouse.io/zetaglobal/jobs/5979424004 | Zeta Global | Senior Manager, Analytics
+- [ ] https://job-boards.greenhouse.io/zetaglobal/jobs/6010381004 | Zeta Global | Senior Manager, Data Science & Analytics
+- [ ] https://jobs.lever.co/tovala/4b198b4a-e364-4f71-928c-ca733c203a32 | Tovala | Senior Data Analyst, Menu Analytics (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/kitcheck/f3204a62-b9a2-4d22-bbb8-88012ea23161 | Kit Check | Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/zencastr/44a1a6e8-cb5e-475f-ad3e-37b4376ae23d | Zencastr | Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/bhg-inc/1378039d-adc2-443f-81e3-8e6a7e52c276 | BHG Financial | Senior Quantitative Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/includedhealth/4d306a54-b107-4b78-aac5-84455b8e6cd2 | Included Health | Sr. People Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/35e13a22-2a73-4986-b887-843c1db0df62 | Jobgether | Entry Level Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/dnc/3e1f7fd9-a276-4a89-93b6-dca32618a8be | Democratic National Committee | Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://to.indeed.com/aakzd22fkwlq | Endeavor Health | Supply Chain Analyst Senior
+- [ ] https://to.indeed.com/aamkbgdp7zkv | Chamberlain Group | Customer Supply Chain Sr. Analyst
+- [ ] https://to.indeed.com/aajbfpv4v2lm | ComEd | Assoc Data Scientist
+- [ ] https://to.indeed.com/aacrl96cdqrl | Mj holding | Data Engineer
+- [ ] https://to.indeed.com/aad7jbkcf6br | REPLY | Data Engineer
+- [ ] https://to.indeed.com/aapz44gfnjp8 | Optimas Solutions | Senior Manager, Business Intelligence and Analytics
+- [ ] https://apply.workable.com/stio/j/9658CD0A73 | Stio | Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
