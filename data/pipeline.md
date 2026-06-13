@@ -283,6 +283,17 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aapz44gfnjp8 | Optimas Solutions | Senior Manager, Business Intelligence and Analytics
 - [ ] https://apply.workable.com/stio/j/9658CD0A73 | Stio | Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 
+- [ ] https://jobs.lever.co/openx/7317553b-55af-4e24-aff5-e620f54f2950 | OpenX | Business Intelligence Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/bellhops/0718e2ad-f3fe-489b-b57d-a162dba09509 | Bellhop | Business Intelligence Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/bellhops/0ce6fb36-62f2-4d0a-ab23-b066d635e045 | Bellhop | Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/6a3021d6-c261-425e-aa14-45ca39841926 | Jobgether | Senior Business Intelligence Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/bad2561f-5fb7-4d55-85ae-fe9c0e77c072 | Jobgether | Senior Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/9d6694c4-58ff-4f38-b726-f95c305a7469 | Jobgether | Remote Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/eb2d821e-4b6d-4e52-b0ad-27102cd0b25b | Jobgether | Business Intelligence Analyst Remote US (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://apply.workable.com/jobgether/j/2542A8199C/ | Jobgether | Senior Analytics Engineer Remote US (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://apply.workable.com/jobgether/j/E6AEF1CEEF | Jobgether (Cyera) | Senior Data Analyst Remote US (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://apply.workable.com/fridababy/j/A8B4DF5F53/ | Frida | Supply Chain Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
