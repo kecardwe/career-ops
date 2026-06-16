@@ -293,6 +293,20 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://apply.workable.com/jobgether/j/2542A8199C/ | Jobgether | Senior Analytics Engineer Remote US (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://apply.workable.com/jobgether/j/E6AEF1CEEF | Jobgether (Cyera) | Senior Data Analyst Remote US (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://apply.workable.com/fridababy/j/A8B4DF5F53/ | Frida | Supply Chain Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/philo/jobs/7958304 | Philo | Senior Business Insights Analyst
+- [ ] https://job-boards.greenhouse.io/accenturefederalservices/jobs/4681811006 | Accenture Federal Services | Supply Chain Modeling & Analytics Consultant
+- [ ] https://job-boards.greenhouse.io/clinchoice/jobs/4879943101 | ClinChoice | Senior Real-World Data Analytics Consultant
+- [ ] https://jobs.ashbyhq.com/perplexity/d680e788-14d3-43f6-8ce8-5df486ca32d0 | Perplexity | Member of Technical Staff (Data Scientist)
+- [ ] https://jobs.lever.co/jobgether/31ed1af3-2152-431f-81dd-d66993074dfb | Jobgether | Data Analyst (Remote - US) (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/bab6c454-9bba-4856-8806-28e2fb70f22e | Jobgether | Remote Data Insights Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/happyrobot.ai/ec481bf2-e7fb-4efa-9d64-65c1634004c5 | Happyrobot Inc. | Analytics Data Engineer (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://to.indeed.com/aafqf84yr4tp | Gallagher | Procurement Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aaqkx8rk8gnz | Options Clearing Corporation | Senior Associate, Data Analytics Engineering (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aafwdnrwr686 | Lindsay Precast | Data Engineer (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aa48xslnxhy2 | Macquarie Group | Futures Clearing Operations Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aaps4hy7s6qk | Tech Rise Solutions | Data Engineer (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aaxk4wdzzzm9 | Endeavor Health | Cloud Data Engineer – Snowflake (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aar442l69ygv | Belvedere Trading | Senior Data Engineer (unverified — Indeed redirect, confirm before evaluating)
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
