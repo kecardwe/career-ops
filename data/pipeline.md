@@ -307,6 +307,41 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aaps4hy7s6qk | Tech Rise Solutions | Data Engineer (unverified — Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aaxk4wdzzzm9 | Endeavor Health | Cloud Data Engineer – Snowflake (unverified — Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aar442l69ygv | Belvedere Trading | Senior Data Engineer (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aam8wqf4hwwm | Wilson Sporting Goods | Supply Chain Analyst, Footwear (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aaw6k8gt2lym | Pregis | Lead BI Analyst, Revenue Operations (unverified — Indeed redirect, Dallas TX, confirm before evaluating)
+- [ ] https://to.indeed.com/aadt2mmhyb7l | Vertex Pharmaceuticals | Regulatory Business Analyst – Regulatory Technology (Contract) (unverified — Indeed redirect, remote/contract, confirm before evaluating)
+- [ ] https://to.indeed.com/aawngjfzzblg | NAOS (Bioderma, Esthederm & État Pur) | Customer Operations Analyst – Order Management (unverified — Indeed redirect, in-office Cincinnati OH, confirm before evaluating)
+- [ ] https://to.indeed.com/aa4fpt2tj2ds | Exelon | Sr Data Engineer 1 – Enterprise IT Data Analytics (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aavrpwvg964r | Sinai Chicago | Healthcare Data Analyst/Data Engineer (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aabxnqv4xmm2 | Inspire11 | Data Engineer (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aap9tc4qmrgx | Green Thumb Industries | Data Engineer (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aarmktjxzjsm | Ann & Robert H. Lurie Children's Hospital of Chicago | Data Engineer II (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aa69jgnq9bkb | Insygnum | Consultant – Data Engineer (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aamv7st9cmkc | Vital Care Industries | Supply Chain Strategy Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aa4bmbpkytl6 | Shift Transit | Operations Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aas6ggh4tssh | ADM | Clearing Operations Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aaq8zrfzyqqc | Radix Trading | Quantitative Business Analyst (unverified — Indeed redirect; appears to be a University Job Board posting, confirm eligibility/access before evaluating)
+- [ ] https://to.indeed.com/aan2vpb9nws2 | Quanta Exchange | Operations Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aaz2xxvhpwkd | Chicago Trading Company | Market Data Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aawz6t8d99f6 | Clarity Partners | Business Intelligence Data Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://boards.greenhouse.io/flockfreight/jobs/6290290003 | Flock Freight | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/genezenlabs/jobs/5194265004 | Genezen | Supply Chain Analyst - Buyer/Planner
+- [ ] https://job-boards.greenhouse.io/opensesame/jobs/7906068 | OpenSesame | Customer Success Operations Analyst
+- [ ] https://jobs.ashbyhq.com/pebl/8870a0c5-6b0e-4020-9c53-d4bbcc650c0e/application | Pebl | Analytics Engineer (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://apply.workable.com/avomind/j/BE7BA29173 | Avomind | BI Analyst/Analytics Engineer (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://apply.workable.com/commercial-lending/j/8BDC549F4C | World Business Lenders | Data Engineer Analyst (Remote) (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://apply.workable.com/dmvitservice/j/EFDF2E6CFF | DMV IT Service | Data Analyst IV (unverified — WebFetch inconclusive/SPA, Chicago IL contract, confirm before evaluating)
+- [ ] https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94 | Palantir Technologies | Site Reliability Operations Analyst - Commercial (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Data-Engineer_R3564-1 | Echo Global Logistics | Data Engineer (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Sr-Data-Engineer_R3539-1 | Echo Global Logistics | Sr. Data Engineer (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/6208658 | Flexport | Analyst, Transportation & Supply Chain Strategy
+- [ ] https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Analyst-I_JR202500377 | Tempus AI | Data Analyst I (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://manh.wd5.myworkdayjobs.com/en-US/External/job/Sr-Marketing-Data-Analyst_16853 | Manhattan Associates | Sr Marketing Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://manh.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Compensation-and-People-Data-Analyst_16796 | Manhattan Associates | Compensation and People Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://manh.wd5.myworkdayjobs.com/en-US/External/job/Data-Scientist_14981 | Manhattan Associates | Data Scientist (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://careers.blueyonder.com/us/en/job/245362/VALUE-ARCHITECT-Business-Analyst-Supply-chain | Blue Yonder | VALUE ARCHITECT (Business Analyst, Supply chain) (Dallas TX, unverified — not independently fetched, confirm before evaluating)
+- [ ] https://illinoisjoblink.illinois.gov/jobs/11212363 | Grainger | Sr Advanced Analytics Analyst (unverified — third-party mirror board, confirm before evaluating)
+- [ ] https://fairygodboss.com/jobs/grainger/analyst-supply-chain-rotational-development-program-minooka-il-cb369e329954c3e0e105d49bdb64cf40 | Grainger | Analyst, Supply Chain Rotational Development Program (unverified — third-party mirror board, confirm before evaluating)
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
