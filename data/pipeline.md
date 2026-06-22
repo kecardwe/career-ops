@@ -334,7 +334,6 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/palantir/5174e95b-2e0a-46f8-8db7-e2c837a0ac94 | Palantir Technologies | Site Reliability Operations Analyst - Commercial (unverified — WebFetch 403, confirm before evaluating)
 - [ ] https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Chicago-IL/Data-Engineer_R3564-1 | Echo Global Logistics | Data Engineer (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Sr-Data-Engineer_R3539-1 | Echo Global Logistics | Sr. Data Engineer (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
-- [ ] https://job-boards.greenhouse.io/flexport/jobs/6208658 | Flexport | Analyst, Transportation & Supply Chain Strategy
 - [ ] https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Analyst-I_JR202500377 | Tempus AI | Data Analyst I (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://manh.wd5.myworkdayjobs.com/en-US/External/job/Sr-Marketing-Data-Analyst_16853 | Manhattan Associates | Sr Marketing Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://manh.wd5.myworkdayjobs.com/External/job/Atlanta-GA/Compensation-and-People-Data-Analyst_16796 | Manhattan Associates | Compensation and People Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
@@ -342,6 +341,66 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://careers.blueyonder.com/us/en/job/245362/VALUE-ARCHITECT-Business-Analyst-Supply-chain | Blue Yonder | VALUE ARCHITECT (Business Analyst, Supply chain) (Dallas TX, unverified — not independently fetched, confirm before evaluating)
 - [ ] https://illinoisjoblink.illinois.gov/jobs/11212363 | Grainger | Sr Advanced Analytics Analyst (unverified — third-party mirror board, confirm before evaluating)
 - [ ] https://fairygodboss.com/jobs/grainger/analyst-supply-chain-rotational-development-program-minooka-il-cb369e329954c3e0e105d49bdb64cf40 | Grainger | Analyst, Supply Chain Rotational Development Program (unverified — third-party mirror board, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/mcmastercarr/jobs/4029146009 | McMaster-Carr | Data Analyst
+- [ ] https://job-boards.greenhouse.io/unybrands/jobs/5977562004 | unybrands | Supply Chain Analyst
+- [ ] https://job-boards.greenhouse.io/quince/jobs/5180510008 | Quince | Data Analyst, Supply Chain
+- [ ] https://job-boards.greenhouse.io/infinitecommerce/jobs/4398195006 | Infinite Commerce | Supply Chain Analyst
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5094414007 | Anduril Industries | Supply Chain Analyst
+- [ ] https://boards.greenhouse.io/splice/jobs/7215554002 | Splice | Lead Business Intelligence Analyst (Remote)
+- [ ] https://job-boards.greenhouse.io/starrez/jobs/5118067008 | StarRez | Senior Business Intelligence Analyst
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4666574005 | dbt Labs | Senior Sales Operations Analyst
+- [ ] https://boards.greenhouse.io/remotecom/jobs/5757555003 | Remote.com | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7674093003 | Remote.com | Senior Treasury Business Intelligence Analyst
+- [ ] https://jobs.lever.co/scale3c/529b785c-17fd-44c6-b83c-32adcca84cc3 | ScaleTech | Data Analytics Engineer (Remote contract)
+- [ ] https://jobs.lever.co/coupa/59c8e0d0-a9b0-4bb0-97ad-07e7fcc6a82b | Coupa Software | Sr. Product Operations Analyst
+- [ ] https://jobs.lever.co/loadsmart/e1bff569-df35-43b6-b149-04fc2c314dc3 | Loadsmart | Senior Analytics Engineer (unverified — Remote restricted to Brazil, confirm eligibility before evaluating)
+- [ ] https://jobs.lever.co/veeva/a04eda9e-a675-4af8-a4ff-ffc177f99876 | Veeva Systems | Analytics Engineer - OpenData EMEA (unverified — Remote restricted to EMEA, confirm eligibility before evaluating)
+- [ ] https://job-boards.greenhouse.io/teads1/jobs/4795929101 | Teads | Analytics Engineer / Data Engineer - Data Solutions Team
+- [ ] https://job-boards.greenhouse.io/perform-careers/jobs/4285394009 | Total Performance Consulting | Data Engineer
+- [ ] https://jobs.ashbyhq.com/tapcheck/fcaa9d72-f379-44ca-964a-86616be61b03 | Tapcheck | Data Analyst
+- [ ] https://jobs.ashbyhq.com/blackbird-labs-inc/afb84675-656a-4513-90db-030cb8da1fd8/application | Blackbird Labs Inc | Data Analytics & Business Intelligence Manager
+- [ ] https://jobs.ashbyhq.com/block-labs/06e721f0-df84-4eab-a4f3-be0c1614d458/application | Block Labs | Business Intelligence Analyst
+- [ ] https://jobs.ashbyhq.com/careerstrengo/5d1fc08d-7ec7-4fca-bf56-18bcfe924f11/application | Trengo | Data Analyst
+- [ ] https://jobs.ashbyhq.com/Crusoe/2d8beac1-aff9-46d0-9066-f493892a536d | Crusoe | Procurement Operations Analyst
+- [ ] https://jobs.ashbyhq.com/vanta/a91beb09-141f-4959-97cd-b8b64a1e86f6 | Vanta | Senior Recruiting Operations Analyst
+- [ ] https://jobs.ashbyhq.com/sauron/b1626a78-4a62-4ca0-9c76-d8184b90953e | Sauron | Business Operations Analyst
+- [ ] https://apply.workable.com/prismplus/j/62B4B87C20/ | PRISM+ | Business Intelligence Data Analyst (Remote)
+- [ ] https://apply.workable.com/evolv-technology/j/7C0ED53A41/ | Evolv Technologies Holdings, Inc. | Business Intelligence Data Analyst
+- [ ] https://apply.workable.com/roadpass-digital-1/j/19A4D9F2A9 | Roadpass Digital | Senior Data Analytics Engineer (REMOTE)
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/6711251 | FourKites | Procurement Analyst
+- [ ] https://jobs.grainger.com/job/CHICAGO-Senior-Supply-Chain-Optimization-Engineer-IL-60661-4555/1315270900/ | Grainger | Senior Supply Chain Optimization Engineer (Chicago, IL)
+- [ ] https://jobs.grainger.com/job/LAKE-FOREST-Senior-Supply-Chain-Analyst-(Distribution-Center-Engineering-Design-&-Optimization)-IL-60045-5202/1225516500/ | Grainger | Senior Supply Chain Analyst (Distribution Center Engineering Design & Optimization), Lake Forest IL
+- [ ] https://www.linkedin.com/jobs/view/data-analyst-at-echo-global-logistics-4146892681 | Echo Global Logistics | Data Analyst (unverified — LinkedIn, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8011615 | Flexport | Analyst, Transportation & Supply Chain Strategy
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/6602749 | Flexport | Data Analyst
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/7362870 | Flexport | Sr Credit Analyst, Capital Portfolio Analytics
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUS551A4B485E884EB3B26B8D98E4F2C9ADEXTERNALENUSB241904D7D4241F0967482E53D964846/Analyst-Finance-Analytics-AI | Snowflake | Analyst, Finance Analytics & AI (unverified — Menlo Park, confirm location eligibility before evaluating)
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUS9541E528C3994B3296AC76948E618F99EXTERNALENUS5F935EC058424C35BD13B38143551723/Analyst-Senior-Analyst-People-Analytics | Snowflake | Analyst/Senior Analyst, People Analytics (unverified — Menlo Park, confirm location eligibility before evaluating)
+- [ ] https://careers.morningstar.com/us/en/job/REQ-051449/Analyst-Structured-Finance-Data-Analytics | Morningstar | Analyst, Structured Finance Data Analytics
+- [ ] https://www.linkedin.com/jobs/view/data-analyst-at-morningstar-2874264896 | Morningstar | Data Analyst (unverified — LinkedIn, confirm before evaluating)
+- [ ] https://www.wallstreetcareers.com/jobs/440895861-business-intelligence-manager | Morningstar | Business Intelligence Manager (unverified — third-party mirror board, confirm before evaluating)
+- [ ] https://www.builtinchicago.org/job/data/data-analyst-commercial-feasibility-analytics/206109 | Tempus AI | Data Analyst, Commercial Feasibility Analytics (unverified — Built In Chicago mirror, confirm before evaluating)
+- [ ] https://www.builtinchicago.org/job/data-operations-analyst/264879 | Tempus AI | Data Operations Analyst - TIME (unverified — Built In Chicago mirror, confirm before evaluating)
+- [ ] https://www.builtinchicago.org/job/data/commercial-operations-data-analyst/168123 | Tempus AI | Commercial Operations Data Analyst (unverified — Built In Chicago mirror, confirm before evaluating)
+- [ ] https://www.ziprecruiter.com/c/United-Airlines,-Inc./Job/Associate-Analyst-Tech-Ops-Data-Analytics/-in-Chicago,IL?jid=dd28d4b82cb1b5e5 | United Airlines | Associate Analyst - Tech Ops Data Analytics (unverified — ZipRecruiter mirror, confirm before evaluating)
+- [ ] https://mypivot.work/job/analyst-supply-chain-analytics-at-united-airlines-gurugram-69adefef06d98df287f73178 | United Airlines | Analyst - Supply Chain Analytics (unverified — Gurugram India, obscure third-party mirror, confirm eligibility before evaluating)
+- [ ] https://www.builtinchicago.org/job/lead-marketing-analytics-investment-strategy/4695442 | Kraft Heinz | Lead, Marketing Analytics & Investment Strategy (unverified — Built In Chicago mirror, confirm before evaluating)
+- [ ] https://www.builtinchicago.org/job/sr-analyst-materials-supply-chain-losses/6426220 | Kraft Heinz | Sr. Analyst, Materials - Supply Chain Losses (unverified — Built In Chicago mirror, confirm before evaluating)
+- [ ] https://www.builtinchicago.org/job/sr-analyst-it-supply-chain/2432015 | Kraft Heinz | Sr Analyst - IT - Supply Chain (unverified — Built In Chicago mirror, confirm before evaluating)
+- [ ] https://www.accenture.com/us-en/careers/jobdetails?id=AIOC-S01641644_en | Accenture | Supply Chain Plan&Analyt Analyst
+- [ ] https://www.accenture.com/us-en/careers/jobdetails?id=AIOC-S01628537_en | Accenture | Supply Chain Operations Analyst
+- [ ] https://www.accenture.com/us-en/careers/jobdetails?id=AIOC-S01642740_en | Accenture | Supply Chain Operations Senior Analyst
+- [ ] https://www.accenture.com/us-en/careers/jobdetails?id=R00316209_en | Accenture | S&C Global Network - AI - Supply Chain - Analyst
+- [ ] https://to.indeed.com/aacsybzlr4gq | Core Specialty | Actuarial Data Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aamcn9nyqrtp | Benda Infotech | Business Intelligence Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aajwb7mxtjbr | MJMC, Inc. | Analyst, AI Business Intelligence (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aa8gpbjdhmgz | INX International Ink Co. | Production & Demand Planning Analyst (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aax6l6ytzrkf | mSupply | Data Engineer (unverified — Indeed redirect, remote, confirm before evaluating)
+- [ ] https://to.indeed.com/aa2rsxlmnzs6 | Pella | Associate Data Engineer (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aa4b2bh89dcg | Murdoch's Ranch & Home Supply | Data Analytics Engineer (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aa6ykvcn4dyd | DataSpring | Data Engineer (unverified — Indeed redirect, remote, confirm before evaluating)
+- [ ] https://to.indeed.com/aa6dqybd9ywj | Data Ideology | Data Engineer (unverified — Indeed redirect, remote, confirm before evaluating)
+- [ ] https://to.indeed.com/aam9rmcnl44t | Gallagher | Data Engineer Associate - Contract (unverified — Indeed redirect, contract role, confirm before evaluating)
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
