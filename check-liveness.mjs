@@ -118,7 +118,11 @@ async function main() {
 
   console.log(`Checking ${urls.length} URL(s)...\n`);
 
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({
+    headless: true,
+    executablePath: '/opt/pw-browsers/chromium',
+    proxy: process.env.HTTPS_PROXY ? { server: process.env.HTTPS_PROXY } : undefined,
+  });
   const page = await browser.newPage();
 
   let active = 0, expired = 0, uncertain = 0;
