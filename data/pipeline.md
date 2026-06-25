@@ -401,6 +401,18 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aa6ykvcn4dyd | DataSpring | Data Engineer (unverified — Indeed redirect, remote, confirm before evaluating)
 - [ ] https://to.indeed.com/aa6dqybd9ywj | Data Ideology | Data Engineer (unverified — Indeed redirect, remote, confirm before evaluating)
 - [ ] https://to.indeed.com/aam9rmcnl44t | Gallagher | Data Engineer Associate - Contract (unverified — Indeed redirect, contract role, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8023563 | Reddit | Senior Business Analyst, Revenue Analytics
+- [ ] https://jobs.ashbyhq.com/candidhealth/3b76459e-9521-4687-84a8-117b5b98a410 | Candid Health | BI (Analytics) Engineer (unverified — WebFetch inconclusive/insufficient content, confirm before evaluating)
+- [ ] https://apply.workable.com/tiger-analytics/j/DA28B652D3 | Tiger Analytics Inc. | Data Analyst (Financial Planning and Analysis) - Canada (unverified — WebFetch inconclusive/metadata only, confirm before evaluating; note: Canada location)
+- [ ] https://www.builtinchicago.org/job/senior-quantitative-analyst/9021629 | Morningstar | Senior Quantitative Investment Analyst
+- [ ] https://www.linkedin.com/jobs/view/data-analyst-at-zebra-technologies-4136215541 | Zebra Technologies | Data Analyst (unverified — WebFetch returned LinkedIn search aggregation page not target posting, confirm before evaluating)
+- [ ] https://www.linkedin.com/jobs/view/supply-chain-analytics-planning-analyst-at-accenture-4379643285 | Accenture | Supply Chain Analytics & Planning Analyst (unverified — WebFetch returned LinkedIn search aggregation page not target posting, confirm before evaluating)
+- [ ] https://to.indeed.com/aa8n2lyrzd9c | Benda Infotech | Reporting Analyst
+- [ ] https://to.indeed.com/aa6ppgd4xvyr | Midwest Express Clinic | Healthcare Data Analyst - Chicago
+- [ ] https://to.indeed.com/aa2nnf7c7xcc | Walgreens | Analyst Data Analytics
+- [ ] https://to.indeed.com/aakdfzzzyzdt | HAVI Logistics GmbH | Data Analyst
+- [ ] https://to.indeed.com/aan277jf6pb2 | VERVE GROUP | Data Engineer (Remote / Contract)
+- [ ] https://to.indeed.com/aa96rzss9zfk | IT HEROES | Data Engineer
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
