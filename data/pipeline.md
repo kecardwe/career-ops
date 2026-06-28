@@ -413,6 +413,16 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aakdfzzzyzdt | HAVI Logistics GmbH | Data Analyst
 - [ ] https://to.indeed.com/aan277jf6pb2 | VERVE GROUP | Data Engineer (Remote / Contract)
 - [ ] https://to.indeed.com/aa96rzss9zfk | IT HEROES | Data Engineer
+- [ ] https://job-boards.greenhouse.io/ninjatrader/jobs/4691523006 | NinjaTrader | Sr. Data Engineer
+- [ ] https://job-boards.greenhouse.io/nscaleoperationsukltd/jobs/4872120101 | Nscale | Supply Chain Analyst
+- [ ] https://job-boards.greenhouse.io/fairlife/jobs/5170802007 | fairlife | Senior Supply Chain Analyst
+- [ ] https://job-boards.greenhouse.io/coinbase/jobs/8020892 | Coinbase | Analytics Engineer, Remote - USA (unverified — WebFetch 403 Forbidden, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7674094003 | Remote | Senior Treasury Business Intelligence Analyst (unverified — internal referral-only board, requires a Remote employee referral to apply, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/read-ai/aa092ea4-c26b-40c6-b9e9-a87e8fb62433 | Read AI, Inc. | Manager of Analytics & Strategy (unverified — WebFetch inconclusive/metadata only, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/hadrian-automation/bedfa775-4798-406b-a32b-83efe2c3cdd1 | Hadrian Automation | Business Analyst (unverified — WebFetch inconclusive/metadata only, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/recruyt/6fff0f88-e591-410e-98e4-29b2dea12011 | Recruyt | Forward Deployed Engineer, Data Scientist (unverified — WebFetch inconclusive/metadata only, confirm before evaluating)
+- [ ] https://www.linkedin.com/jobs/view/data-scientist-at-manhattan-associates-3599538609 | Manhattan Associates | Data Scientist (unverified — WebFetch returned LinkedIn search aggregation page not target posting, confirm before evaluating)
+- [ ] https://www.linkedin.com/jobs/view/analyst-ops-strategy-analytics-at-united-airlines-4228890388 | United Airlines | Analyst - Ops Strategy & Analytics (unverified — WebFetch returned LinkedIn search aggregation page not target posting, confirm before evaluating)
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
