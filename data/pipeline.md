@@ -4,6 +4,8 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 
 ## Pendientes
 
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7776056003 | Engine | Staff Data Analyst, Engine X
+- [ ] https://job-boards.greenhouse.io/divergent/jobs/5219297008 | Divergent | Operations Analyst
 - [ ] https://job-boards.greenhouse.io/calendly/jobs/8558879002 | Calendly | Senior Data Analyst, Product
 - [ ] https://apply.workable.com/assist-rx/j/81A33004A0 | AssistRx | Data Analyst Business Intelligence
 
