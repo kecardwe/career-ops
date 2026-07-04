@@ -425,6 +425,24 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.ashbyhq.com/recruyt/6fff0f88-e591-410e-98e4-29b2dea12011 | Recruyt | Forward Deployed Engineer, Data Scientist (unverified — WebFetch inconclusive/metadata only, confirm before evaluating)
 - [ ] https://www.linkedin.com/jobs/view/data-scientist-at-manhattan-associates-3599538609 | Manhattan Associates | Data Scientist (unverified — WebFetch returned LinkedIn search aggregation page not target posting, confirm before evaluating)
 - [ ] https://www.linkedin.com/jobs/view/analyst-ops-strategy-analytics-at-united-airlines-4228890388 | United Airlines | Analyst - Ops Strategy & Analytics (unverified — WebFetch returned LinkedIn search aggregation page not target posting, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/wrike/jobs/4709796005 | Wrike | Sales Strategy & Operations Analyst
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5167749007 | Anduril Industries | Senior Data Engineer, Quality Intelligence
+- [ ] https://job-boards.greenhouse.io/velir/jobs/5262333008 | Velir | Senior Data and Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/themotleyfool/jobs/5108196007 | The Motley Fool | Senior Business Intelligence Engineer
+- [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/5235104008 | Obsidian Security | Lead Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7726632003 | Affirm | Analyst II, Full Stack (Customer Servicing Analytics)
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7028089 | DoorDash | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4297633009 | StackAdapt | Senior Data Analyst, Business Intelligence
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5153261007 | Encora | Senior Data Analyst
+- [ ] https://jobs.lever.co/penumbrainc/42b1547f-f9a0-4a1d-9d27-01867be98079 | Penumbra | Global Sales Operations Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/kpler/b201966a-a03d-4492-8b00-ea73dcc630dc | Kpler | Revenue Operations Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/hive/8a55e4ff-ec69-4691-aa65-fc7cbd7c6ee0 | Hive | Data Operations Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/Crusoe/ef99c43f-8aef-495c-84e7-36663cd73369 | Crusoe | Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/quicknode/aa18b773-624e-4173-ab8c-fa534f3bab4b | QuickNode | Go To Market Operations Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://apply.workable.com/mindex/j/B4046B3A4D/ | Mindex | Senior Business Intelligence Engineer (unverified — WebFetch inconclusive, confirm before evaluating)
+- [ ] https://apply.workable.com/commercial-lending/j/162B5C9EA0 | World Business Lenders | Data Engineering Analyst (unverified — WebFetch inconclusive, confirm before evaluating)
+- [ ] https://apply.workable.com/kaizenams/j/8CEF2B9DE7/ | Kaizen Asset Management | Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://apply.workable.com/mediavine/j/ECD9C0FEB1/ | Mediavine | Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
