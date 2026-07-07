@@ -4,6 +4,12 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 
 ## Pendientes
 
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5165241007 | Anduril Industries | S&OP Planning Analyst
+- [ ] https://jobs.ashbyhq.com/grounded/da619dda-3875-44d9-b344-d7cc41aed4df | Grounded RV | Supply Chain Analyst
+- [ ] https://apply.workable.com/hack-the-box-ltd/j/B9B2A6F56B | Hack The Box | Data Analyst
+- [ ] https://job-boards.greenhouse.io/textus/jobs/6108965004 | TextUs | Business Operations Analyst
+- [ ] https://job-boards.greenhouse.io/pushpay/jobs/8017618 | Pushpay | Supply Chain Analyst 1, Resi
+
 - [ ] https://job-boards.greenhouse.io/engine/jobs/7776056003 | Engine | Staff Data Analyst, Engine X
 - [ ] https://job-boards.greenhouse.io/divergent/jobs/5219297008 | Divergent | Operations Analyst
 - [ ] https://job-boards.greenhouse.io/calendly/jobs/8558879002 | Calendly | Senior Data Analyst, Product
