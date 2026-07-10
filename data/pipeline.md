@@ -4,6 +4,12 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 
 ## Pendientes
 
+- [ ] https://www.builtinchicago.org/job/customer-strategy-operations-associate/8419748 | Tempus AI | Sr. Data Operations Analyst
+- [ ] https://apply.workable.com/proarch-3/j/194B4AFA18/ | ProArch | Data Analyst/PowerBI Engineer
+- [ ] https://jobs.ashbyhq.com/meter/11d53376-ce03-4184-a881-244fc90d796e | Meter | Data Analyst
+- [ ] https://jobs.ashbyhq.com/techtorch/f8019a7a-eae1-46a4-98a8-7a2d45b157fb | Techtorch | Business Analyst, Data
+- [ ] https://apply.workable.com/ottimate/j/F2CBC7E01E/ | Ottimate | Senior Business Intelligence Analyst (Payments Strategy)
+
 - [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5165241007 | Anduril Industries | S&OP Planning Analyst
 - [ ] https://jobs.ashbyhq.com/grounded/da619dda-3875-44d9-b344-d7cc41aed4df | Grounded RV | Supply Chain Analyst
 - [ ] https://apply.workable.com/hack-the-box-ltd/j/B9B2A6F56B | Hack The Box | Data Analyst
