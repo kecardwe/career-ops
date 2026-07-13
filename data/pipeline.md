@@ -456,6 +456,17 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://apply.workable.com/kaizenams/j/8CEF2B9DE7/ | Kaizen Asset Management | Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://apply.workable.com/mediavine/j/ECD9C0FEB1/ | Mediavine | Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 
+- [ ] https://boards.greenhouse.io/remotecom/jobs/6031394003 | Remote | Team Lead, Analytics Engineering
+- [ ] https://job-boards.greenhouse.io/thesciongroupllc/jobs/8628525002 | The Scion Group | Business Intelligence Analyst
+- [ ] https://jobs.ashbyhq.com/adjoe/e03bbcac-7bfc-4dc3-b749-1a462fa3226b | adjoe | Data Analytics Lead
+- [ ] https://jobs.ashbyhq.com/forward%20financing/b77567c1-3a73-4c5a-8464-b7d63013158b | Forward Financing | Senior Data Analyst
+- [ ] https://jobs.ashbyhq.com/kraken.com/782eea12-4114-4123-bae7-e897a057d196 | Kraken | Data Analyst, Growth
+- [ ] https://apply.workable.com/lago-1/j/129D46E74C | Lago | BI Analyst
+- [ ] https://job-boards.greenhouse.io/livefront/jobs/4299998009 | Livefront | Data Engineer (Databricks)
+- [ ] https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5279481008 | Horizon Industries | Databricks Data Engineer
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUS7C0F46CE85F9420AB8C5178FE3086AEFEXTERNALENUS90820295815543C182FD3D40C8C124A7/Staff-Analyst-GTM-Analytics | Snowflake | Staff Analyst, GTM Analytics (unverified — London UK, confirm location eligibility before evaluating)
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4304779009 | Oura | Senior Data Analyst, Hardware & Supply Chain
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
