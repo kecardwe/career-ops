@@ -466,6 +466,22 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5279481008 | Horizon Industries | Databricks Data Engineer
 - [ ] https://careers.snowflake.com/us/en/job/SNCOUS7C0F46CE85F9420AB8C5178FE3086AEFEXTERNALENUS90820295815543C182FD3D40C8C124A7/Staff-Analyst-GTM-Analytics | Snowflake | Staff Analyst, GTM Analytics (unverified — London UK, confirm location eligibility before evaluating)
 - [ ] https://job-boards.greenhouse.io/oura/jobs/4304779009 | Oura | Senior Data Analyst, Hardware & Supply Chain
+- [ ] https://job-boards.greenhouse.io/toast/jobs/8048663 | Toast | Staff Analytics Engineer - Remote, United States
+- [ ] https://jobs.lever.co/jobgether/a97b012b-4838-4966-8419-d44c3b908601 | Jobgether | Senior Analytics Engineer, Product
+- [ ] https://jobs.lever.co/fiscalnote/08ead1e7-2634-40da-9fde-f0d584d3f2e6 | FiscalNote | GTM Operations Analyst
+- [ ] https://jobs.ashbyhq.com/axion/e7644f30-9650-4a6f-b84c-a01d61b95cfe | Axion | Data Analyst
+- [ ] https://apply.workable.com/packback/j/6910352BC1 | Packback | Analytics Engineering
+- [ ] https://job-boards.greenhouse.io/enova/jobs/8047624 | Enova International | Senior Data Scientist (Hybrid)
+- [ ] https://job-boards.greenhouse.io/pitchbookdata/jobs/4683750006 | PitchBook Data | Data Analyst
+- [ ] https://job-boards.greenhouse.io/pitchbookdata/jobs/4688427006 | PitchBook Data | Revenue Operations Analyst
+- [ ] https://jobs.lever.co/morningbrew/d4c74002-c509-4d2a-b843-0d46b2608bac | Morning Brew | Analyst, Insights & Analytics
+- [ ] https://jobs.lever.co/morningbrew/d3fdfa5c-0268-4a48-95b3-d90afff52d07 | Morning Brew | Growth Data Analyst
+- [ ] https://jobs.lever.co/morningconsult/925165df-3e70-4d3c-87c1-2f7eb7bdcb9b | Morning Consult | Survey Scientist, Analytics Operations
+- [ ] https://job-boards.greenhouse.io/accenturefederalservices/jobs/4694062006 | Accenture Federal Services | Business Analyst
+- [ ] https://jobs.lever.co/jobgether/57f59af7-9024-4d85-b3a0-11bfde4dd064 | Jobgether | Sr. BI & Analytics Analyst
+- [ ] https://job-boards.greenhouse.io/wizinc/jobs/4682244006 | Wiz | Senior GTM Data Analyst
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7846877 | MongoDB | Senior Data Analyst II, Product
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUSF92361606EFD4F5493335B954F6AD2E9EXTERNALENUSEEE8BA60B03B484FAAD4EE600CA2A847/Staff-Analyst-People-Analytics | Snowflake | Staff Analyst, People Analytics
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
