@@ -483,6 +483,20 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/mongodb/jobs/7846877 | MongoDB | Senior Data Analyst II, Product
 - [ ] https://careers.snowflake.com/us/en/job/SNCOUSF92361606EFD4F5493335B954F6AD2E9EXTERNALENUSEEE8BA60B03B484FAAD4EE600CA2A847/Staff-Analyst-People-Analytics | Snowflake | Staff Analyst, People Analytics
 
+
+- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5349829008 | Impiricus | Data Analyst
+- [ ] https://jobs.ashbyhq.com/Tremendous/57d137a2-0582-4c3d-87ff-601ab0839034/application | Tremendous | Operations Analyst
+- [ ] https://jobs.ashbyhq.com/andela/4b04f6f7-d1db-4096-9db0-53c31f1195c9 | Andela | Data Analyst
+- [ ] https://jobs.ashbyhq.com/tensec/b7c942de-78bc-4c36-a283-0c2f0d0a6cdb | Tensec | Operations Analyst
+- [ ] https://jobs.ashbyhq.com/weave/500f9634-4f7b-488a-8838-e5b98c0cbefe | Weave | Business Intelligence Analyst, Sales
+- [ ] https://jobs.lever.co/jobgether/91a5b28d-dc3c-4407-b0b4-f34ad697bee8 | Jobgether | Senior Data Analyst - REMOTE
+- [ ] https://jobs.lever.co/jobgether/10f35375-5eae-48a5-b57a-01a7e5b8b974 | Jobgether | Senior Data Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/inspire11/jobs/7617545002 | Inspire11 | Data Engineer
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7611488003 | Cohere Health | Data Analyst I
+- [ ] https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Senior-Associate--Analytics---Business-Insights_JR202600470 | Tempus AI | Senior Associate, Analytics & Business Insights
+- [ ] https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Integration-Analyst_JR202500360 | Tempus AI | Data Integration Analyst
+- [ ] https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Data-Engineer-I_JR202500792/apply | Tempus AI | Data Engineer I
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
