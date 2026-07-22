@@ -496,6 +496,17 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Senior-Associate--Analytics---Business-Insights_JR202600470 | Tempus AI | Senior Associate, Analytics & Business Insights
 - [ ] https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Data-Integration-Analyst_JR202500360 | Tempus AI | Data Integration Analyst
 - [ ] https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Data-Engineer-I_JR202500792/apply | Tempus AI | Data Engineer I
+- [ ] https://job-boards.greenhouse.io/indigenouspactpbcinc/jobs/4716913005 | Indigenous Pact PBC | Data Platform & Analytics Engineer
+- [ ] https://jobs.lever.co/oowlish/4d812d70-6ae0-4640-b6e9-98c7cc9c4080 | Oowlish Technology | Data Analyst (Product & Customer Analytics)
+- [ ] https://jobs.lever.co/jobgether/22142948-d0b0-4a08-b74a-49b8e1116697 | Jobgether | Data Analyst, Specialty Care Programmatic Support
+- [ ] https://apply.workable.com/recurly/j/D6041C1430/ | Recurly | Analytics Engineer
+- [ ] https://apply.workable.com/prophix/j/95BC10525C | Prophix | Data & Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/5634684002 | Databricks | Senior Data Scientist
+- [ ] https://jobs.lever.co/jobgether/e2931ede-975f-4b27-abad-e0cd7f55f72e | Jobgether | Senior Data Analyst (Fintech)
+- [ ] https://job-boards.greenhouse.io/soundcloud71/jobs/8624637002 | SoundCloud | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/inizioevoke/jobs/7964845 | Inizio Evoke | Data Analyst
+- [ ] https://jobs.lever.co/pingwind/6247ee17-0a5a-4d3c-8e87-2e6b421f47b4 | PingWind | Data Analyst - Blue Team
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUS657F6F04CFA2438185D4B10A2EDD3D4DEXTERNALENUS9BBAFAF2240D4CFB8E95B289F0350BE5/Forward-Deployed-Engineer-Data-Engineer | Snowflake | Forward Deployed Engineer - Data Engineer
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
