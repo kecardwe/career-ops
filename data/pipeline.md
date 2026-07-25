@@ -507,6 +507,38 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/inizioevoke/jobs/7964845 | Inizio Evoke | Data Analyst
 - [ ] https://jobs.lever.co/pingwind/6247ee17-0a5a-4d3c-8e87-2e6b421f47b4 | PingWind | Data Analyst - Blue Team
 - [ ] https://careers.snowflake.com/us/en/job/SNCOUS657F6F04CFA2438185D4B10A2EDD3D4DEXTERNALENUS9BBAFAF2240D4CFB8E95B289F0350BE5/Forward-Deployed-Engineer-Data-Engineer | Snowflake | Forward Deployed Engineer - Data Engineer
+- [ ] https://boards.greenhouse.io/neighborhoodscom/jobs/2435860 | Neighborhoods.com | Data Analyst
+- [ ] https://job-boards.greenhouse.io/stratacareers/jobs/6205449003 | Strata Decision Technology | Data Analyst
+- [ ] https://boards.greenhouse.io/greenthumbindustries/jobs/3145354 | Green Thumb Industries | Consumer Data Analyst
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5131580007 | Anduril Industries | Operations Analyst - OT Hardware
+- [ ] https://job-boards.greenhouse.io/idme/jobs/7724051003 | ID.me | People Operations Analyst
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8066966 | Braze | Email Operations Analyst
+- [ ] https://job-boards.greenhouse.io/enova/jobs/8080280 | Enova International | Analytics Analyst - Fraud
+- [ ] https://job-boards.greenhouse.io/greenthumbindustries/jobs/7917727 | Green Thumb Industries | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/hasbro/jobs/4252690009 | Hasbro | Data Engineer
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5991231004 | Galaxy | Data Engineer
+- [ ] https://job-boards.greenhouse.io/xealth/jobs/7550718003 | Xealth | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/mavenclinic/jobs/8350520002 | Maven Clinic | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/lemnis/d2b67055-341f-44b1-bcc6-faeb80f5905d | Lemnis (Mainstay) | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/jobgether/81261238-1de0-415b-8353-3fb4c1f6fb11 | Jobgether | Supply Chain Analyst
+- [ ] https://jobs.lever.co/jobgether/62c96a06-4f69-4d1e-8f0d-6fd7f6b14038 | Jobgether | Data Analyst
+- [ ] https://jobs.lever.co/jobgether/8af20b7f-e0c8-44d5-b0d3-dd5c68316caa | Jobgether | Digital Analytics Senior Analyst
+- [ ] https://jobs.ashbyhq.com/1password/e07bc774-d90b-443d-89f1-bec8fff33360 | 1Password | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/Crusoe/21805444-d139-44eb-8359-2b04628acb51 | Crusoe | Supply Chain Operations Analyst
+- [ ] https://careers.united.com/us/en/job/WHQ00026385/Analyst-TO-Analytics | United Airlines | Analyst - TO Analytics
+- [ ] https://careers.united.com/us/en/job/WHQ00026561/Associate-Analyst-Operations-Analytics | United Airlines | Associate Analyst - Operations Analytics
+- [ ] https://careers.morningstar.com/us/en/job/REQ-057279/Service-Delivery-and-IT-Ops-Data-Analyst | Morningstar | Service Delivery and IT Ops Data Analyst
+- [ ] https://to.indeed.com/aas86p6glqw4 | Orange Cabinetry Inc. | Supply Chain and Inventory Analyst
+- [ ] https://to.indeed.com/aa4ntnmrx9gg | Progress Rail | BI Systems Analyst - Supply Chain Solutions
+- [ ] https://to.indeed.com/aa8fwwkm2wqk | Card Integrity | Financial Data Analyst
+- [ ] https://to.indeed.com/aavrqbmvc9pj | College of American Pathologists | Senior Inventory & Supply Planning Analyst
+- [ ] https://to.indeed.com/aat2v7ybcfkq | Bain & Company | Staff Data Engineer I
+- [ ] https://to.indeed.com/aaf9rgvksdkk | Hyatt | Senior Data Engineer
+- [ ] https://to.indeed.com/aabvkqhh9v79 | Belvedere Trading | Senior Data Engineer
+- [ ] https://to.indeed.com/aa4729hpxbl9 | Allied Benefit Systems | Data Analyst - Data Ops
+- [ ] https://to.indeed.com/aatvqxzyfqtx | Sarnova HC | Data Analyst - Cardio Partners
+- [ ] https://to.indeed.com/aaqgf9z98db6 | Crawford & Company | Statistical & Claim Data Analyst
+- [ ] https://to.indeed.com/aapgjqbp6mbq | Wintrust Financial Corporation | Advanced Business Analyst
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
