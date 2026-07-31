@@ -4,6 +4,13 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 
 ## Pendientes
 
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8080784 | DoorDash | Partner Operations Analyst, Food Access
+- [ ] https://jobs.ashbyhq.com/amplify/69bfa32e-bfb2-4664-b072-80e9770fbc27 | Amplify | Inventory and Financial Analyst
+- [ ] https://jobs.ashbyhq.com/serverobotics/1e52efd9-1515-4468-9999-6428c1128e46 | Serve Robotics | Data Analyst, Supply Chain
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4330525009 | CodeRoad | Senior Data Analyst
+- [ ] https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Sr-Analyst-or-Manager--Reimbursement-Strategy---Analytics_JR202500716/apply | Tempus AI | Sr. Analyst or Manager, Reimbursement Strategy & Analytics
+- [ ] https://jobs.lever.co/lingarogroup/959df2e0-9d91-4281-9afa-02bf8745a475 | Lingaro | Supply Chain Senior Business Analyst / Consultant
+- [ ] https://jobs.lever.co/jobgether/9ba2e22f-4362-41fd-98a7-e4f8f3c26d22 | Jobgether | FBS Associate Analytics Engineer
 - [ ] https://www.builtinchicago.org/job/customer-strategy-operations-associate/8419748 | Tempus AI | Sr. Data Operations Analyst
 - [ ] https://apply.workable.com/proarch-3/j/194B4AFA18/ | ProArch | Data Analyst/PowerBI Engineer
 - [ ] https://jobs.ashbyhq.com/meter/11d53376-ce03-4184-a881-244fc90d796e | Meter | Data Analyst
