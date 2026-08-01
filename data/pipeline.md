@@ -547,6 +547,12 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aaqgf9z98db6 | Crawford & Company | Statistical & Claim Data Analyst
 - [ ] https://to.indeed.com/aapgjqbp6mbq | Wintrust Financial Corporation | Advanced Business Analyst
 
+- [ ] https://job-boards.greenhouse.io/axle/jobs/5172769007 | Axle | Data Engineer
+- [ ] https://jobs.lever.co/jobgether/29b6c9f4-2ece-4792-8c8f-1a96a26c8ff6 | Jobgether | Data Analyst
+- [ ] https://jobs.lever.co/jobgether/370aa148-b663-4e3c-9f06-9cddcd51b30e | Jobgether | Sr. Business/Data Analyst
+- [ ] https://jobs.lever.co/jobgether/11e6279c-228a-48c1-a38e-b380b5257468 | Jobgether | Data Analyst - Asset Management
+- [ ] https://jobs.lever.co/palantir/2df67493-ffb3-4b34-bf3b-88b6750c3ea7 | Palantir | Operations Analyst - US Government Security
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
