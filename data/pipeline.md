@@ -553,6 +553,10 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/jobgether/11e6279c-228a-48c1-a38e-b380b5257468 | Jobgether | Data Analyst - Asset Management
 - [ ] https://jobs.lever.co/palantir/2df67493-ffb3-4b34-bf3b-88b6750c3ea7 | Palantir | Operations Analyst - US Government Security
 
+- [ ] https://job-boards.greenhouse.io/hoonigan/jobs/4341792009 | Hoonigan | Supply Chain Analyst
+- [ ] https://apply.workable.com/form-2/j/8B869485A5/ | FORM | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8638847002 | Databricks | AI Engineer — GTM Analytics
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
