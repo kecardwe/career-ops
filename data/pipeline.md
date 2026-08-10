@@ -556,6 +556,23 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/hoonigan/jobs/4341792009 | Hoonigan | Supply Chain Analyst
 - [ ] https://apply.workable.com/form-2/j/8B869485A5/ | FORM | Analytics Engineer
 - [ ] https://job-boards.greenhouse.io/databricks/jobs/8638847002 | Databricks | AI Engineer — GTM Analytics
+- [ ] https://job-boards.greenhouse.io/flexe/jobs/4702073006 | Flexe | Senior Operations Analyst
+- [ ] https://job-boards.greenhouse.io/align/jobs/8652408002 | A-LIGN | Strategy and Business Operations Analyst
+- [ ] https://job-boards.greenhouse.io/updater/jobs/8074942 | Updater | Lead Data Analyst, Product Analytics
+- [ ] https://job-boards.greenhouse.io/traegergrills/jobs/8030981 | Traeger Grills | Logistics Analyst
+- [ ] https://job-boards.greenhouse.io/imaginepediatrics/jobs/4674760005 | Imagine Pediatrics | Senior Business Intelligence Analyst
+- [ ] https://jobs.lever.co/luxurypresence/b9ec9e28-bb5e-4386-a374-8870179ee995 | Luxury Presence | Staff Analytics Engineer
+- [ ] https://jobs.lever.co/palantir/7d91ca36-1e23-4603-b0f1-82a835e27d3f | Palantir | Site Reliability Operations Analyst - US Government
+- [ ] https://jobs.lever.co/resilinc/db05e6d3-6024-420d-a8da-da6edfe3e821 | Resilinc | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/719235f1-d75c-4dd2-914d-217e6fe89a4e | Jobgether | Data Analytics Business Analyst
+- [ ] https://jobs.lever.co/jobgether/bb161435-9331-4ed7-a313-d2f21b7b8c64 | Jobgether | Data Analyst
+- [ ] https://jobs.lever.co/jobgether/e6c02db8-2d1b-4f13-a1af-20d8fa8fb87d | Jobgether | Data Engineer
+- [ ] https://jobs.lever.co/jobgether/b6ba8b89-cfa8-458e-a36d-d7d729856b8d | Jobgether | Senior Data Analyst - Supply Analytics
+- [ ] https://jobs.lever.co/jobgether/c3844015-55ab-4c94-9489-13a67e6a44d4 | Jobgether | Senior Data Analytics Engineer
+- [ ] https://jobs.lever.co/jobgether/463e4f22-0d46-4a53-85f5-660f4f7587a8 | Jobgether | Data Engineer (IE/Ops Research)
+- [ ] https://jobs.lever.co/ciandt/d0fca56e-909e-4507-bc5a-c7095d478350 | CI&T | Analytics Engineer / DBT Modelling Engineer
+- [ ] https://jobs.lever.co/teramind/1018e740-2f91-4414-8467-a8c5f3fc10e5 | Teramind | Data Analyst
+- [ ] https://jobs.ashbyhq.com/A1%20Garage%20Door%20Service/9a5cf0e1-4349-4ab3-81cf-222a9a8e20fc | A1 Garage Door Service | Inventory Analyst
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
