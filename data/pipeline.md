@@ -573,6 +573,10 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/ciandt/d0fca56e-909e-4507-bc5a-c7095d478350 | CI&T | Analytics Engineer / DBT Modelling Engineer
 - [ ] https://jobs.lever.co/teramind/1018e740-2f91-4414-8467-a8c5f3fc10e5 | Teramind | Data Analyst
 - [ ] https://jobs.ashbyhq.com/A1%20Garage%20Door%20Service/9a5cf0e1-4349-4ab3-81cf-222a9a8e20fc | A1 Garage Door Service | Inventory Analyst
+- [ ] https://job-boards.greenhouse.io/growthloop/jobs/4723408005 | GrowthLoop | Analytics Engineer, Strategic Accounts
+- [ ] https://job-boards.greenhouse.io/nimblegravity/jobs/4721760005 | Nimble Gravity | Business Intelligence Analyst (LATAM remote only — verify location eligibility before evaluating)
+- [ ] https://jobs.lever.co/luxurypresence/d8705197-2421-4c2b-9179-242654c8b2fc | Luxury Presence | Senior Analytics Engineer (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://apply.workable.com/capgemini-insurance/j/72B01C84FD/ | Capgemini | FBS Associate Analytics Engineer (unverified — WebFetch 429, confirm before evaluating)
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
