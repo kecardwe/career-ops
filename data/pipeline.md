@@ -577,6 +577,18 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/nimblegravity/jobs/4721760005 | Nimble Gravity | Business Intelligence Analyst (LATAM remote only — verify location eligibility before evaluating)
 - [ ] https://jobs.lever.co/luxurypresence/d8705197-2421-4c2b-9179-242654c8b2fc | Luxury Presence | Senior Analytics Engineer (unverified — WebFetch 403, confirm before evaluating)
 - [ ] https://apply.workable.com/capgemini-insurance/j/72B01C84FD/ | Capgemini | FBS Associate Analytics Engineer (unverified — WebFetch 429, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8128786 | DRW | Data Analyst
+- [ ] https://job-boards.greenhouse.io/drweng/jobs/8094311 | DRW | Data Analyst - Global Markets and Equities
+- [ ] https://job-boards.greenhouse.io/fourhands/jobs/4368973009 | Four Hands | Senior Analyst, Supply Chain Planning & Analytics
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8103641 | Samsara | Senior Sales Operations Analyst
+- [ ] https://job-boards.greenhouse.io/virtru/jobs/4721321005 | Virtru | Operations Analyst
+- [ ] https://jobs.lever.co/synapticure/aa57a67c-acfa-418e-b3c6-2ab84c68e743/apply | SynaptiCure | Staff Data Analyst
+- [ ] https://jobs.lever.co/loadsmart/8acd2950-f978-4d55-8288-acb46cf6120c | Loadsmart | Analytics Engineer
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUSB238723DA5CC46C2A36603D775427170EXTERNALENUSD214F0FA9DA14591BC61432AB92F735C/Senior-Analyst-Customer-Experience-Analytics | Snowflake | Senior Analyst, Customer Experience Analytics
+- [ ] https://careers.snowflake.com/us/en/job/SNCOUS3D3CE9199EC1465785FAD09A1F5785DCEXTERNALENUS4EA34B876C234E0FAE931CC02EB21AE0/Analyst-Finance-Analytics-AI-Deal-Desk | Snowflake | Analyst, Finance Analytics & AI - Deal Desk
+- [ ] https://www.builtinchicago.org/job/consumer-insights-analyst-hybrid/9297551 | Enova | Consumer Insights Analyst
+- [ ] https://www.builtinchicago.org/job/sr-analyst-it-supply-chain/246611 | Kraft Heinz | Sr Analyst - IT - Supply Chain
+- [ ] https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4354943009 | Voyager Technologies | Supply Chain Data Analyst
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
