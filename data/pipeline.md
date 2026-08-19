@@ -590,6 +590,15 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://www.builtinchicago.org/job/sr-analyst-it-supply-chain/246611 | Kraft Heinz | Sr Analyst - IT - Supply Chain
 - [ ] https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4354943009 | Voyager Technologies | Supply Chain Data Analyst
 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6122160004 | Hightouch | Forward Deployed Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/enova/jobs/7176659 | Enova International | Recovery Measurement & Reporting Analyst (Denver hybrid, $44-65K — low comp + not Chicago, confirm before evaluating)
+- [ ] https://to.indeed.com/aas4qsw9hfll | Encore Global | Senior Finance Data Analyst (Schiller Park IL, $85-110K — unverified Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aavqr7rnphlr | Aon | Health Analytics Product Analyst (Chicago IL, $74-118K — unverified Indeed redirect, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/formenergy/5592f375-8718-4d2e-9617-3ee6a044ebd0 | Form Energy | Supply Chain Logistics Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/morse-micro/6c32f8ec-e4ec-42e7-9f61-b838edeccc08 | Morse Micro | Supply Chain & Logistics Specialist (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/Crusoe/228cef59-aa09-461e-8704-9bd2f0d2de20 | Crusoe | Supply Chain & Logistics Lead (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/a5617eb7-e621-4dcd-84e9-a0f028ded4c8 | Jobgether | Senior Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
