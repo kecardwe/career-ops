@@ -598,6 +598,12 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.ashbyhq.com/morse-micro/6c32f8ec-e4ec-42e7-9f61-b838edeccc08 | Morse Micro | Supply Chain & Logistics Specialist (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://jobs.ashbyhq.com/Crusoe/228cef59-aa09-461e-8704-9bd2f0d2de20 | Crusoe | Supply Chain & Logistics Lead (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://jobs.lever.co/jobgether/a5617eb7-e621-4dcd-84e9-a0f028ded4c8 | Jobgether | Senior Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/bluesight/0478c8b8-e41b-4506-8dfb-b924e69b563b | Bluesight | Associate Data Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/careerswift.ai/004b958c-2910-4e53-9d53-2217f6e44b8d | Careerswift | Data Analyst (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://to.indeed.com/aamx7q6h8ywx | FHLBank Chicago | Sr Data Analyst Mortgage Analytics & Insights (unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aan8t6x9ylfr | Anheuser-Busch | Business Analyst - Region (Lisle IL — unverified Indeed redirect, confirm before evaluating)
+- [ ] https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Senior-Data-Analyst_JR202600790 | Tempus AI | Senior Data Analyst (unverified — batch mode WebFetch, confirm before evaluating)
+- [ ] https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Sr-Business-Intelligence-Engineer_JR202600620 | Tempus AI | Sr. Business Intelligence Engineer (unverified — batch mode WebFetch, confirm before evaluating)
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
