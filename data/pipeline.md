@@ -604,6 +604,21 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aan8t6x9ylfr | Anheuser-Busch | Business Analyst - Region (Lisle IL — unverified Indeed redirect, confirm before evaluating)
 - [ ] https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Senior-Data-Analyst_JR202600790 | Tempus AI | Senior Data Analyst (unverified — batch mode WebFetch, confirm before evaluating)
 - [ ] https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Sr-Business-Intelligence-Engineer_JR202600620 | Tempus AI | Sr. Business Intelligence Engineer (unverified — batch mode WebFetch, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/unlockhealth/jobs/5189177007 | Unlock Health | Creative Data Analyst
+- [ ] https://job-boards.greenhouse.io/fictiv/jobs/8675121002 | Fictiv | Logistics Analyst
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4985350007 | Anduril Industries | Supply Chain Master Data Analyst
+- [ ] https://job-boards.greenhouse.io/bees/jobs/8675759002 | BEES (AB InBev) | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/xai/jobs/5216822007 | xAI | Inventory Analyst (Supercomputer Operations)
+- [ ] https://job-boards.greenhouse.io/supergoop/jobs/4638331005 | Supergoop! | Analyst, Demand Planning
+- [ ] https://job-boards.greenhouse.io/spacex/jobs/8511086002 | SpaceX | Business Operations Analyst (Starlink)
+- [ ] https://jobs.lever.co/resilinc/b22b6c5a-420e-41a4-b40f-2ee6f5686e05 | Resilinc | Senior Data Scientist (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/moo/74a0d86b-f821-4d50-b5b8-195661ec550c | MOO | Senior Analytics Engineer (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/arcteryx.com/e8159cfc-430e-4f40-ac96-85d906a3f903 | ARC'TERYX | Data Analyst, ReBIRD (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/crusoe/b5dc0c85-b7dc-46c3-a23a-a54ba6a979d5 | Crusoe | Strategic Sourcing Data Analyst (unverified — WebFetch partial/SPA, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45 | Harvey | Support Operations Data Analyst (unverified — WebFetch partial/SPA, confirm before evaluating)
+- [ ] https://jobs.lever.co/arrivelogistics/d48909b4-2838-46ac-9065-b05758b7480b | Arrive Logistics | Business Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/luxurypresence/0a6fd9f4-a606-460e-b65e-5b31de56331a | Luxury Presence | Senior Data Analyst, GTM Analytics (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/582954e1-8bc6-4ddb-8e79-27b3556a15ac | Jobgether | Senior Data & Analytics Engineer (unverified — WebFetch 403, confirm before evaluating)
 
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
