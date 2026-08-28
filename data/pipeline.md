@@ -683,3 +683,11 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [x] #060 | https://careers.kraftheinz.com/job/21802897/analyst-supply-chain-network-solutions-chicago-il/ | Kraft Heinz | Analyst, Supply Chain - Network Solutions | 4.0/5 | PDF ❌
 - [x] #061 | https://careers.united.com/us/en/job/WHQ00023487/Senior-Analyst-Data-Analytics-Fuel-Supply | United Airlines | Senior Analyst - Data Analytics (Fuel Supply) | Discarded | PDF ❌
 - [x] #062 | https://careers.morningstar.com/us/en/job/REQ-054294/Business-Analyst-Individual-Investor | Morningstar | Business Analyst, Individual Investor | 3.5/5 | PDF ❌
+
+- [ ] https://job-boards.greenhouse.io/carrotfertility/jobs/6144245004 | Carrot Fertility | Business Intelligence Analyst
+- [ ] https://jobs.lever.co/qonto/ebed5dab-630c-48ea-be8f-9e018797c193 | Qonto | Analytics Engineer (unverified — EU-based company, confirm US eligibility before evaluating)
+- [ ] https://jobs.ashbyhq.com/Crusoe/ef99c43f-8aef-495c-84e7-36663cd73369 | Crusoe | Data Analyst
+- [ ] https://jobs.ashbyhq.com/Crusoe/21805444-d139-44eb-8359-2b04628acb51 | Crusoe | Supply Chain Operations Analyst
+- [ ] https://to.indeed.com/aacjfrh4ktgz | Aon | Health Analytics Product Analyst (Chicago IL, unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aajcj7bqg7y6 | Great Dane | Senior Business Systems Analyst - Supply Chain (Chicago IL, unverified — Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aayr84c9hpq8 | Temperature Equipment Corporation | Business Intelligence Analyst (Lansing IL, unverified — Indeed redirect, confirm before evaluating)
