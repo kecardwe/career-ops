@@ -691,3 +691,10 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aacjfrh4ktgz | Aon | Health Analytics Product Analyst (Chicago IL, unverified — Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aajcj7bqg7y6 | Great Dane | Senior Business Systems Analyst - Supply Chain (Chicago IL, unverified — Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aayr84c9hpq8 | Temperature Equipment Corporation | Business Intelligence Analyst (Lansing IL, unverified — Indeed redirect, confirm before evaluating)
+
+- [ ] https://job-boards.greenhouse.io/instawork/jobs/4583588006 | Instawork | Product Operations Analyst
+- [ ] https://job-boards.greenhouse.io/boylanbottling/jobs/4709173006 | Boylan Bottling Co | Supply Chain Operations Analyst
+- [ ] https://jobs.ashbyhq.com/peek/cc80104d-5aef-45cc-829e-e619f9a5704e | Peek | Data Analyst – Analytics and AI
+- [ ] https://jobs.lever.co/jobgether/8e989823-906f-4bd4-98ff-e2183c753c9b | Jobgether | Senior Data & Analytics Engineer (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/cgsfederal/65ca04c2-7e53-4b9f-b042-377b84aedbdb | Contact Government Services | Business Analyst (unverified — WebFetch 403, confirm before evaluating)
+- [ ] https://jobs.lever.co/scholarsoffinance/12a371f5-f8d3-4779-9cb8-571c3d90cfb6 | Scholars of Finance | Operations Analyst (unverified — WebFetch not attempted, confirm before evaluating)
