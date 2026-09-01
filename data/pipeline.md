@@ -698,3 +698,7 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/jobgether/8e989823-906f-4bd4-98ff-e2183c753c9b | Jobgether | Senior Data & Analytics Engineer (unverified — WebFetch 403, confirm before evaluating)
 - [ ] https://jobs.lever.co/cgsfederal/65ca04c2-7e53-4b9f-b042-377b84aedbdb | Contact Government Services | Business Analyst (unverified — WebFetch 403, confirm before evaluating)
 - [ ] https://jobs.lever.co/scholarsoffinance/12a371f5-f8d3-4779-9cb8-571c3d90cfb6 | Scholars of Finance | Operations Analyst (unverified — WebFetch not attempted, confirm before evaluating)
+
+- [ ] https://jobs.lever.co/jobgether/f8d7c146-7891-4af1-8672-e31b43f9c65d | Jobgether | Data Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/workwave/6644f03a-9227-4901-aae5-6b406aceaaf1 | WorkWave | Sales Operations Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://careers.morningstar.com/us/en/job/REQ-055393/Analyst-Quant-Structured-Finance-Analytics | Morningstar | Analyst, Quant Structured Finance Analytics (unverified — Playwright unavailable this scan, confirm before evaluating)
