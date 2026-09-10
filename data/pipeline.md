@@ -713,3 +713,6 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/jobgether/7a020f02-cb1e-4842-bc79-262c475dc52f | Jobgether | Supply Chain Analyst (unverified — WebFetch 403, confirm before evaluating)
 - [ ] https://jobs.lever.co/spreetail/9a0d4c04-1399-4a4a-97cb-ae2292e74454 | Spreetail | Supply Chain Analyst (unverified — WebFetch 403, confirm before evaluating)
 - [ ] https://jobs.ashbyhq.com/allen-control-systems/aaa07ddb-6053-462c-b696-94429184c502 | Allen Control Systems | Data Analyst - Supply Chain (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+
+- [ ] https://job-boards.greenhouse.io/poetic/jobs/5973770004 | Poetic | Revenue Operations Analyst ($60K-$70K, 100% Remote)
+- [ ] https://job-boards.greenhouse.io/marketechinternationalcorporationusa/jobs/4382165009 | Marketech International | Data Analyst – Supply Chain & Operations (Phoenix AZ — confirm location before evaluating)
