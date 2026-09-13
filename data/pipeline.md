@@ -620,6 +620,14 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/luxurypresence/0a6fd9f4-a606-460e-b65e-5b31de56331a | Luxury Presence | Senior Data Analyst, GTM Analytics (unverified — WebFetch 403, confirm before evaluating)
 - [ ] https://jobs.lever.co/jobgether/582954e1-8bc6-4ddb-8e79-27b3556a15ac | Jobgether | Senior Data & Analytics Engineer (unverified — WebFetch 403, confirm before evaluating)
 
+- [ ] https://job-boards.greenhouse.io/atricure/jobs/4344105009 | AtriCure | Supply Chain Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/3a76c3af-db33-4017-b370-f71a4ca56547 | Jobgether | Data & BI Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/c5d7a92d-4d39-400f-8cc2-d47e61e4ee04 | Jobgether | Business Intelligence Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/remofirst/0ef9ce37-4c90-44bd-b01f-37319af76223 | RemoFirst | Business Intelligence (BI) Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/4d69985b-da99-44af-9652-7560ec6164c1 | Jobgether | Senior BI Analyst / Power BI Lead — KD Pharma (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/bd2f4cbc-346e-49ed-834b-d11b6cf8d25d | Jobgether | Data Analyst – SQL, Power BI & Python (12-month contract, ~$48-52/hr — unverified, Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://careers.morningstar.com/us/en/job/REQ-052657/Credit-Ratings-Cash-Flow-Analytics-Analyst-Fixed-Term | Morningstar | Credit Ratings, Cash Flow Analytics Analyst (Fixed-Term — confirm role fit and duration before evaluating)
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
