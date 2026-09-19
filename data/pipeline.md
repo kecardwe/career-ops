@@ -628,6 +628,20 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/jobgether/bd2f4cbc-346e-49ed-834b-d11b6cf8d25d | Jobgether | Data Analyst – SQL, Power BI & Python (12-month contract, ~$48-52/hr — unverified, Playwright unavailable this scan, confirm before evaluating)
 - [ ] https://careers.morningstar.com/us/en/job/REQ-052657/Credit-Ratings-Cash-Flow-Analytics-Analyst-Fixed-Term | Morningstar | Credit Ratings, Cash Flow Analytics Analyst (Fixed-Term — confirm role fit and duration before evaluating)
 
+- [ ] https://jobs.lever.co/padsplit/323075a3-d79e-49c4-9591-a7d3240c387d | PadSplit | Senior Data Analyst (Fully Remote) (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/hive/0fcd320b-b613-4ecf-b217-f4714cf56a61 | Hive | Business Operations Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/2decabee-b012-44bd-9911-d874373bfbcf | Jobgether | Remote Senior Analytics Engineer (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/lingarogroup/3901c141-0bc2-4e32-b402-adde42df34d4 | Lingaro | Supply Chain Senior Business Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/jobgether/de0e6669-53b0-442b-a7c5-7c71d30cd2f9 | Jobgether | Supply Chain Senior Business Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://apply.workable.com/resource-innovations/j/BDCDB042DF/ | Resource Innovations | Data Analyst Lead (Chicago, IL) (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/whoop/957325d0-efac-4f74-91cd-7102a70b9cb1 | Whoop | Wholesale Operations Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/openai/c59e2e83-59a6-45bc-82cd-665c6a8a5761 | OpenAI | Data Engineer, Scaling Analytics (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/clarium/c55300dd-706e-40e5-a0f6-d5f76927226c | Clarium | Data Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/traba/e91f21cb-90c7-4405-ae79-5e84d9112fc3 | Traba | Senior Data Analyst, Founding Team (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://www.accenture.com/us-en/careers/jobdetails?id=R00347000_en | Accenture | Supply Chain and Operations Consultant (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5850010004 | Grafana Labs | Senior Analytics Engineer (Canada Remote — confirm eligibility before evaluating) (unverified — Playwright unavailable this scan)
+- [ ] https://job-boards.greenhouse.io/correlationone/jobs/6104356004 | Correlation One | Teaching Assistant: Supply Chain Analyst (program role Oct 2026–Apr 2027, confirm if interested) (unverified — Playwright unavailable this scan)
+
 ## Procesadas
 - [x] #001 | https://job-boards.greenhouse.io/project44/jobs/7757786 | project44 | Sr Analyst, Data Science | 1.5/5 | PDF ❌
 - [x] #002 | https://job-boards.greenhouse.io/project44/jobs/7553734 | project44 | Supply Chain Data Analyst | 2.0/5 | PDF ❌
