@@ -763,3 +763,11 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aalp7njgc4mf | Temperature Equipment Corporation | Business Intelligence Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
 - [ ] https://to.indeed.com/aafwsbj6h68x | Sidley Austin | Senior Business Intelligence Engineer (unverified — Playwright unavailable this scan, confirm before evaluating)
 - [ ] https://to.indeed.com/aalzvxrbvw2b | NexGen Financial | Data Engineer (unverified — Playwright unavailable this scan, confirm before evaluating)
+
+- [ ] https://job-boards.greenhouse.io/tactilemedical/jobs/4309158009 | Tactile Medical | Data Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://boards.greenhouse.io/peloton/jobs/8067868 | Peloton | Staff Data Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/itd/jobs/4245366009 | itD Tech | Data Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/openx/df23b30a-21b5-4055-9698-5b5c2767df3c | OpenX | Business Intelligence Data Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/weloglobal/7f8825ef-9120-4a08-bf31-3564794309b3 | Welo Global | Senior Data Analyst - Analytics and Automation (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://jobs.lever.co/pingwind/b769f3db-592f-4cf3-a4bf-65f92c702daf | PingWind | Business Analyst (unverified — Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://apply.workable.com/unisongroup/j/66823A6CBD/ | Unison Group | Senior Business & Data Analyst (AI Enablement) (unverified — Playwright unavailable this scan, confirm before evaluating)
