@@ -803,3 +803,10 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aarwsprvkmtr | Bilink Corp | Senior Databricks Data Engineer (Chicago area)
 - [ ] https://to.indeed.com/aagptxsn4qlk | Forklift Exchange, Inc. | Supply Chain Analyst (Bedford Park IL)
 - [ ] https://to.indeed.com/aawkmdldhvkn | Great Dane | Senior Business Systems Analyst - Supply Chain (Chicago)
+
+- [ ] https://job-boards.greenhouse.io/octave/jobs/8770612002 | Octave | Sr. Data Engineer (Remote — unverified, Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/newsela/jobs/7616064 | Newsela | Data Engineer (Remote — unverified, Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/tebra/jobs/4710332005 | Tebra | Data Engineer (Remote US — unverified, Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/torcrobotics/jobs/8756346002 | Torc Robotics | Senior Analytics Engineer - Business Intelligence (Remote US — unverified, Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://to.indeed.com/aavmjlnrkj69 | Live Nation | Data Analyst, Metrics & Reporting (Remote, $67-84K — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aanqjfrlhvxq | Zero Down Supply Chain Solutions | Business Intelligence Engineer (Remote, $55-75K — unverified, Indeed redirect, confirm before evaluating)
