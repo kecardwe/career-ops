@@ -810,3 +810,9 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/torcrobotics/jobs/8756346002 | Torc Robotics | Senior Analytics Engineer - Business Intelligence (Remote US — unverified, Playwright unavailable this scan, confirm before evaluating)
 - [ ] https://to.indeed.com/aavmjlnrkj69 | Live Nation | Data Analyst, Metrics & Reporting (Remote, $67-84K — unverified, Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aanqjfrlhvxq | Zero Down Supply Chain Solutions | Business Intelligence Engineer (Remote, $55-75K — unverified, Indeed redirect, confirm before evaluating)
+
+- [ ] https://job-boards.greenhouse.io/enova/jobs/8188362 | Enova International | Lead Data Scientist - Fraud (Hybrid Chicago)
+- [ ] https://job-boards.greenhouse.io/enova/jobs/8186474 | Enova International | Senior Data Scientist - Marketing (Hybrid Chicago)
+- [ ] https://to.indeed.com/aamdcfpxb74c | Double Good | Business Intelligence Manager (Elmhurst IL, $108-155K — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aatnjbdft72d | Independence Pet Holdings | Senior Analytics Engineer (Chicago, $112-168K — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aawd2nch8lbb | NPR | Insights Analyst, Implementation & QA (Remote, $91-98K — unverified, Indeed redirect, confirm before evaluating)
