@@ -816,3 +816,7 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aamdcfpxb74c | Double Good | Business Intelligence Manager (Elmhurst IL, $108-155K — unverified, Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aatnjbdft72d | Independence Pet Holdings | Senior Analytics Engineer (Chicago, $112-168K — unverified, Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aawd2nch8lbb | NPR | Insights Analyst, Implementation & QA (Remote, $91-98K — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/shiftsmart/81b56ab7-9536-4d4a-954a-91320214ed86 | Shiftsmart | Data Analyst, Supply (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/meridianlink/1e72871a-909f-40e7-a433-3eacbd1bb68b | MeridianLink | Data Analyst, Reporting (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/optro/72669bd1-552c-40f2-b271-17b3d3b3cc8f | Optro | Senior Analytics Engineer, Commercial (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/Agent/0c015a5e-661b-4f3e-94c8-6628b94591e6 | Agent | Data Analyst (Looker & Marketing Analytics) (unverified — WebFetch inconclusive/SPA, remote contractor, confirm before evaluating)
