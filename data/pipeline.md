@@ -820,3 +820,11 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.ashbyhq.com/meridianlink/1e72871a-909f-40e7-a433-3eacbd1bb68b | MeridianLink | Data Analyst, Reporting (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://jobs.ashbyhq.com/optro/72669bd1-552c-40f2-b271-17b3d3b3cc8f | Optro | Senior Analytics Engineer, Commercial (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://jobs.ashbyhq.com/Agent/0c015a5e-661b-4f3e-94c8-6628b94591e6 | Agent | Data Analyst (Looker & Marketing Analytics) (unverified — WebFetch inconclusive/SPA, remote contractor, confirm before evaluating)
+
+- [ ] https://job-boards.greenhouse.io/enova/jobs/8286690 | Enova International | Analytics Analyst - Fraud (Hybrid Chicago, $63K-$95K — unverified, Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/enova/jobs/8282214 | Enova International | Manager, Global Operations Analytics (Hybrid Chicago — note: 5+ yrs + 2 yrs managing req — unverified, Playwright unavailable this scan, confirm before evaluating)
+- [ ] https://to.indeed.com/aavsmspjd728 | Visibol | Data Analyst (Chicago, $84K-$90K — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aanm8wg2yz7h | BMO Financial Group | Data Analyst (Chicago, $65K-$140K — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aalbxk6frxyf | FundPro Solutions LLC | Financial Data Analyst (Lincolnwood IL, from $60K — below comp target — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aadpmrywwg89 | Bosch | Demand Planning Manager (Mount Prospect IL, $125K-$150K — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://jobs.grainger.com/job/CHICAGO-Manager%2C-Inventory-Optimization-&-Advanced-Analytics-IL-60654-4203/1428503100/ | Grainger | Manager, Inventory Optimization & Advanced Analytics (Chicago — unverified, Playwright unavailable this scan, confirm before evaluating)
