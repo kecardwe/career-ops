@@ -828,3 +828,22 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aalbxk6frxyf | FundPro Solutions LLC | Financial Data Analyst (Lincolnwood IL, from $60K — below comp target — unverified, Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aadpmrywwg89 | Bosch | Demand Planning Manager (Mount Prospect IL, $125K-$150K — unverified, Indeed redirect, confirm before evaluating)
 - [ ] https://jobs.grainger.com/job/CHICAGO-Manager%2C-Inventory-Optimization-&-Advanced-Analytics-IL-60654-4203/1428503100/ | Grainger | Manager, Inventory Optimization & Advanced Analytics (Chicago — unverified, Playwright unavailable this scan, confirm before evaluating)
+
+- [ ] https://job-boards.greenhouse.io/fairlife/jobs/5239915007 | fairlife | Operations Data Analyst
+- [ ] https://job-boards.greenhouse.io/fairlife/jobs/5249251007 | fairlife | Data Scientist
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/8146559 | FourKites | Senior Data Scientist
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8250423 | Samsara | Data Engineer
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8141959 | Samsara | Data Engineer
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8232932 | Samsara | ML/AI - Supply Chain
+- [ ] https://boards.greenhouse.io/faire/jobs/8833031002 | Faire | Senior Analytics Engineer - Marketplace
+- [ ] https://boards.greenhouse.io/faire/jobs/8804205002 | Faire | Senior Product Analytics Engineer - Ads
+- [ ] https://boards.greenhouse.io/faire/jobs/8828560002 | Faire | Senior Finance Analytics Engineer
+- [ ] https://boards.greenhouse.io/faire/jobs/8623235002 | Faire | Strategy & Analytics Lead - Multiple Openings
+- [ ] https://boards.greenhouse.io/faire/jobs/8396231002 | Faire | Strategy & Analytics Senior Lead - Multiple Openings
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5450099008 | Anthropic | Data Engineer, Billing & Payments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5418610008 | Anthropic | Data Engineer, GTM
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448481008 | Anthropic | Data Engineer, Product
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5196852008 | Anthropic | Data Scientist, GTM
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5232055008 | Anthropic | Data Scientist, Policy
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5182605008 | Anthropic | Data Scientist, Product
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209196008 | Anthropic | Data Scientist, Safeguards
