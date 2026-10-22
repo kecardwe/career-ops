@@ -847,3 +847,24 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5232055008 | Anthropic | Data Scientist, Policy
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5182605008 | Anthropic | Data Scientist, Product
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209196008 | Anthropic | Data Scientist, Safeguards
+
+- [ ] https://job-boards.greenhouse.io/compasshealthcenter/jobs/8015725003 | Compass Health Center | Senior Healthcare Data Analyst
+- [ ] https://job-boards.greenhouse.io/nmi/jobs/5323410008 | NMI | Data Analyst, Revenue Operations
+- [ ] https://boards.greenhouse.io/samsara/jobs/8281490 | Samsara | Senior AI Data & Analytics Engineer II (Remote - Chicago)
+- [ ] https://job-boards.greenhouse.io/velir/jobs/5037852008 | Velir | Senior Analytics Engineer
+- [ ] https://boards.greenhouse.io/purestorage/jobs/6357116 | Pure Storage | Business Intelligence Analyst - Marketing (Chicago/Santa Clara)
+- [ ] https://boards.greenhouse.io/precisionmedicinegroup/jobs/4408260004 | Precision Medicine Group | Business Intelligence Analyst I (Remote)
+- [ ] https://boards.greenhouse.io/launch2/jobs/4852063004 | Launch Potato | Business Intelligence Analyst (Remote)
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/8115802 | Customer.io | Contract Operations Systems Analyst (unverified — WebSearch result, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/krollbondratingagency/jobs/8343582002 | KBRA | Sales Operations Analyst (Remote)
+- [ ] https://job-boards.greenhouse.io/enova/jobs/7857922 | Enova International | Senior Business Intelligence Engineer (Chicago hybrid)
+- [ ] https://jobs.lever.co/tendo/37440057-7929-4943-b3d9-878ff6e51d62 | Tendo | Senior Clinical Data Analyst ($97K-$132K, remote)
+- [ ] https://jobs.lever.co/jobgether/94c45b00-4b94-4546-bb01-b90f3843f8c5 | Jobgether | Data Analyst (US Gov, requires Public Trust clearance)
+- [ ] https://jobs.lever.co/bluesight/371dd108-f884-48cb-8791-43643bdb5cf4 | Bluesight | Data Analyst ($70K-$82K, remote)
+- [ ] https://jobs.lever.co/arcadia/3da64d98-72d3-4477-a43f-2277501ac556 | Arcadia | Analytics Engineer, Life Sciences Delivery Operations (remote)
+- [ ] https://jobs.lever.co/jobgether/fd9da2a4-4ff5-4e22-8b29-ce5446c89868 | Jobgether | Lead Analytics Engineer (remote)
+- [ ] https://jobs.lever.co/Versana/cf6297ef-b9aa-46d4-8ddb-b082fd392249 | Versana | Business Operations Analyst
+- [ ] https://jobs.lever.co/simulmedia/9a8cbd9b-4e43-49ef-a77a-e6909f75ea75 | Simulmedia | Operations Analyst (NYC, entry-level)
+- [ ] https://jobs.ashbyhq.com/radai/df814c1f-2d46-49b9-89d7-4b211a05b751 | Rad AI | Business Analytics Engineer (posted 2026-10-16)
+- [ ] https://jobs.ashbyhq.com/magentic/11b21163-227c-4599-9dbc-9d5b30a11441 | Magentic | Data Analyst / BI Engineer (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
+- [ ] https://jobs.ashbyhq.com/cape/ba0cdd14-ad58-4b90-b036-d6d4d77f125e | Cape | Operations Analyst, Consumer ($100K-$110K)
