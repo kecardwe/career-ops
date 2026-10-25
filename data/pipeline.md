@@ -868,3 +868,9 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.ashbyhq.com/radai/df814c1f-2d46-49b9-89d7-4b211a05b751 | Rad AI | Business Analytics Engineer (posted 2026-10-16)
 - [ ] https://jobs.ashbyhq.com/magentic/11b21163-227c-4599-9dbc-9d5b30a11441 | Magentic | Data Analyst / BI Engineer (unverified — WebFetch inconclusive/SPA, confirm before evaluating)
 - [ ] https://jobs.ashbyhq.com/cape/ba0cdd14-ad58-4b90-b036-d6d4d77f125e | Cape | Operations Analyst, Consumer ($100K-$110K)
+
+- [ ] https://careers.kraftheinz.com/job/22233545 | Kraft Heinz | Analyst – Customer Supply Chain (unverified — Workday ATS, confirm before evaluating)
+- [ ] https://careers.kraftheinz.com/job/22475411 | Kraft Heinz | Analyst, GBS – Supply Chain-1 (unverified — Workday ATS, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/honor/jobs/8451598002 | Honor | Staff Data Analyst (Remote)
+- [ ] https://job-boards.greenhouse.io/anaplan/jobs/8650321002 | Anaplan | Data Analyst (unverified — Gurugram India location, confirm eligibility before evaluating)
+- [ ] https://jobs.grainger.com/job/LAKE-FOREST-Supply-Chain-Analyst%2C-Distribution-Center-Engineering-Design-and-Optimization-IL-60045-5202/1238087300 | Grainger | Supply Chain Analyst, DC Engineering Design & Optimization (unverified — may be stale 2024 posting, confirm before evaluating)
