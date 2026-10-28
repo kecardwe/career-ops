@@ -874,3 +874,10 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/honor/jobs/8451598002 | Honor | Staff Data Analyst (Remote)
 - [ ] https://job-boards.greenhouse.io/anaplan/jobs/8650321002 | Anaplan | Data Analyst (unverified — Gurugram India location, confirm eligibility before evaluating)
 - [ ] https://jobs.grainger.com/job/LAKE-FOREST-Supply-Chain-Analyst%2C-Distribution-Center-Engineering-Design-and-Optimization-IL-60045-5202/1238087300 | Grainger | Supply Chain Analyst, DC Engineering Design & Optimization (unverified — may be stale 2024 posting, confirm before evaluating)
+
+- [ ] https://job-boards.greenhouse.io/avepoint/jobs/7554040 | AvePoint | Data Analyst (Jersey City NJ, $85-110K — verified active 2026-10-28)
+- [ ] https://to.indeed.com/aa88tj2h6xvk | Logic, Inc. | Performance Strategy Business Analyst (Chicago IL, posted Oct 27 2026 — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aa6bm9f27c7x | Benesch Law | IT Business Analyst (Chicago IL — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aafhjkhrd89y | CJ Logistics America | Supply Chain Solutions Analyst (Des Plaines IL — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aayt9wdftprr | Medline Industries | Senior Systems Analyst – Logistics Automation & Platform Services (Northbrook IL — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aa2dkcdznlfl | United Airlines | Data Analytics Manager (Chicago IL — unverified, Indeed redirect, confirm before evaluating)
