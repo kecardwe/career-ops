@@ -881,3 +881,7 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aafhjkhrd89y | CJ Logistics America | Supply Chain Solutions Analyst (Des Plaines IL — unverified, Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aayt9wdftprr | Medline Industries | Senior Systems Analyst – Logistics Automation & Platform Services (Northbrook IL — unverified, Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aa2dkcdznlfl | United Airlines | Data Analytics Manager (Chicago IL — unverified, Indeed redirect, confirm before evaluating)
+
+- [ ] https://job-boards.greenhouse.io/enova/jobs/8318404 | Enova International | Data Scientist - Portfolio Consumer (Hybrid) (Chicago IL — verified active 2026-10-31)
+- [ ] https://job-boards.greenhouse.io/enova/jobs/8324579 | Enova International | Lead Data Scientist (Hybrid) (Chicago IL — NEW posting, verified active 2026-10-31)
+- [ ] https://job-boards.greenhouse.io/enova/jobs/8282214 | Enova International | Manager, Global Operations Analytics (Hybrid) (Chicago IL — verified active 2026-10-31)
