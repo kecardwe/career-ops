@@ -885,3 +885,10 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/enova/jobs/8318404 | Enova International | Data Scientist - Portfolio Consumer (Hybrid) (Chicago IL — verified active 2026-10-31)
 - [ ] https://job-boards.greenhouse.io/enova/jobs/8324579 | Enova International | Lead Data Scientist (Hybrid) (Chicago IL — NEW posting, verified active 2026-10-31)
 - [ ] https://job-boards.greenhouse.io/enova/jobs/8282214 | Enova International | Manager, Global Operations Analytics (Hybrid) (Chicago IL — verified active 2026-10-31)
+
+- [ ] https://to.indeed.com/aa6xj9k6nz2v | Constellation Brands | 3PM Supply Execution & Inventory Analyst (Chicago IL, $69.5K-$102.1K — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5464234008 | Anthropic | Data Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436196008 | Anthropic | Business Systems Analyst, GTM Systems
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5416829008 | Anthropic | Business Systems Analyst, New Product Introduction
+- [ ] https://to.indeed.com/aacpbvjx2vls | Signet Jewelers | Sr. Data Analyst, Finance (Remote — unverified, Indeed redirect, confirm before evaluating)
+- [ ] https://to.indeed.com/aafwb8bmdjft | Cboe Global Markets | Quantitative Data Analyst (Chicago IL, $88.8K-$115K — unverified, posted June 2026, confirm liveness before evaluating)
