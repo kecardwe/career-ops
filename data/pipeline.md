@@ -892,3 +892,14 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5416829008 | Anthropic | Business Systems Analyst, New Product Introduction
 - [ ] https://to.indeed.com/aacpbvjx2vls | Signet Jewelers | Sr. Data Analyst, Finance (Remote — unverified, Indeed redirect, confirm before evaluating)
 - [ ] https://to.indeed.com/aafwb8bmdjft | Cboe Global Markets | Quantitative Data Analyst (Chicago IL, $88.8K-$115K — unverified, posted June 2026, confirm liveness before evaluating)
+
+- [ ] https://job-boards.greenhouse.io/supplyhouse/jobs/6199457004 | SupplyHouse.com | Analytics Engineer (unverified — Playwright unavailable, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/marketechinternationalcorporationusa/jobs/4398143009 | Marketech International | Data Analyst - Supply Chain & Operations (unverified — Playwright unavailable, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/shopmy/jobs/5165201008 | ShopMy | Senior Data Analyst (unverified — Playwright unavailable, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/modernhealth/jobs/8550544002 | Modern Health | Data Analyst (unverified — Playwright unavailable, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8024408 | DoorDash | Revenue Data Analyst (unverified — Playwright unavailable, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/nozominetworks/jobs/4699414005 | Nozomi Networks | Revenue Operations Data Analyst (unverified — Playwright unavailable, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/similarweb/jobs/7440237 | Similarweb | Data Analyst - Big Data (unverified — Playwright unavailable, confirm before evaluating)
+- [ ] https://to.indeed.com/aamqmskssjpk | Chicago Transit Authority | Business Analyst, Supply Chain Operations ($83,291, Chicago — unverified, confirm before evaluating)
+- [ ] https://to.indeed.com/aavc9xtc2fsz | AAR Corp. | Supply Chain Analyst ($70-90K, Wood Dale IL — unverified, confirm before evaluating)
+- [ ] https://to.indeed.com/aam26pqj8yjf | Inventus Power Illinois LLC | Supply Chain Analyst ($60-75K, Woodridge IL — unverified, confirm before evaluating)
