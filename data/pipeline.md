@@ -910,3 +910,4 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://to.indeed.com/aanxwbmkp8xq | Element Food Solutions LLC | Supply Chain Analyst (Hodgkins IL — unverified, confirm before evaluating)
 - [ ] https://jobs.lever.co/metergysolutions/1a20d596-888d-4191-b22d-24d7435a7a69 | Metergy Solutions | Business Intelligence Analyst (Long Island City NY hybrid — unverified, confirm before evaluating)
 - [ ] https://jobs.ashbyhq.com/rxvantage/929717fa-844d-4df2-af64-28de55eabe89 | RxVantage | Business Intelligence Analyst (unverified — SPA, confirm before evaluating)
+- [ ] https://job-boards.greenhouse.io/doublegood/jobs/6147443004 | Double Good | Business Intelligence Manager (unverified — Playwright unavailable this scan, confirm before evaluating)
